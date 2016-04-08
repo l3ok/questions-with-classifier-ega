@@ -154,14 +154,16 @@ For more information about training the classifier, see the [Classifier API](htt
 ### Stage 4: Populate the answer store
 In this stage, populate the answer store by using curl. To populate the answer store in Eclipse, see [Populating the answer store in Eclipse](#populating-the-answer-store-in-eclipse)
 
-The json file used to populate the answer store is generated during the build.  Run `mvn package` from the `questions-with-classifier-ega` directory to build the project and generate this file.
+The json file used to populate the answer store is generated during the build.  Run `mvn package` from the `questions-with-classifier-ega` directory to build the project and generate this file.  
+  
+*Note:* Make sure you set the environment variable *MANAGE_API_PASSWORD* in Bluemix to a secure password of your choice.  This will be used later in the curl command to allow modification of the answer store.
 
 To see the API that populates the answer store, open https://yourAppName.mybluemix.net/api/doc, and see **Manage**.
 
   1. Ensure that your app is running. If it's not running, open your app in Bluemix and click **START**.
   2. From a command prompt, run the following curl command. This assumes the command is run from the questions-with-classifier-ega directory.  If necessary, change the path to the file.
 
-    `curl -X POST -H "Content-Type: application/json" -d @questions-with-classifier-ega-war/target/classes/answers.json http://yourAppName.mybluemix.net/api/v1/manage/answer`
+    `curl -u apiuser:<password> -X POST -H "Content-Type: application/json" -d @questions-with-classifier-ega-war/target/classes/answers.json http://yourAppName.mybluemix.net/api/v1/manage/answer`
 
 ### What to do next
 
