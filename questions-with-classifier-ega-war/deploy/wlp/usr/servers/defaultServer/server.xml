@@ -39,16 +39,24 @@
        If you are using a database that allows more or fewer than 20 concurrent connections,
        change maxPoolSize below.
   -->
-  <dataSource id='db2-app-qaclassifier-db' jdbcDriverRef='db2-driver' jndiName='jdbc/app-qaclassifier-db' statementCacheSize='30' transactional='true'>
-      <!-- properties.db2.jcc stanza will be updated during deployment -->
+  <!--dataSource id='db2-app-qaclassifier-db' jdbcDriverRef='db2-driver' jndiName='jdbc/app-qaclassifier-db' statementCacheSize='30' transactional='true'>
+      
       <properties.db2.jcc />
       <connectionManager maxPoolSize="20" />
   </dataSource>
   <jdbcDriver id='db2-driver' libraryRef='db2-library' />
   <library id='db2-library'>
-      <!-- fileset stanza will be updated during deployment -->
+      
       <fileset id='db2-fileset' />
-  </library>
+  </library-->
+  
+  <dataSource id='postgresql-questions-db' jdbcDriverRef='postgresql-driver' jndiName='jdbc/app-qaclassifier-db' transactional='true' type='javax.sql.ConnectionPoolDataSource'>
+        <properties id='postgresql-questions-db-props' databaseName='${cloud.services.questions-db.connection.name}' user='${cloud.services.questions-db.connection.user}' password='${cloud.services.questions-db.connection.password}' portNumber='${cloud.services.questions-db.connection.port}' serverName='${cloud.services.questions-db.connection.host}'/>
+    </dataSource>
+    <jdbcDriver id='postgresql-driver' javax.sql.XADataSource='org.postgresql.xa.PGXADataSource' javax.sql.ConnectionPoolDataSource='org.postgresql.ds.PGConnectionPoolDataSource' libraryRef='postgresql-library'/>
+    <library id='postgresql-library'>
+        <fileset id='postgresql-fileset' dir='${server.config.dir}/lib' includes='postgresql-jdbc-9.4.1208.jar'/>
+    </library>
   
   <application name="qaclassifier-app" context-root="/" location="questions-with-classifier-ega-war.war" type="war">
       <application-bnd>
