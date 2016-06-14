@@ -7,8 +7,8 @@ declared-services:
     label: natural_language_classifier
     plan: standard
   questions-db:
-    label: sqldb
-    plan: sqldb_free
+    label: elephantsql
+    plan: turtle
 
 applications:
 - memory: 512M
