@@ -66,7 +66,7 @@ public class ImpressionEntity extends TrackingEventEntity {
     @Column(name = "CLASS")
     private String classifiedClass;
 
-    @Column(name = "OFFSET")
+    @Column(name = "OFFSETV")
     private Integer offset;
 
     @Column(name = "ACTION")
