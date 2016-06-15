@@ -1,22 +1,22 @@
 [
   {
-  	questionText: "What is the Natural Language Classifier service?",
-  	className: "what_classifier_does"
+  	questionText: "Can I use my Credit card at Car rental companies?",
+  	className: "cc_acceptance_car_rental"
   },
   {
-  	questionText: "Why do I want to use the Natural Language Classifier?",
-  	className: "why_use_classifier"
+  	questionText: "Can I draw cash in a branch?",
+  	className: "cc_acceptance_cash_withdrawal"
   },
   {
-  	questionText: "What languages are supported?",
-  	className: "languages_supported"
+  	questionText: "What is a purchase with cashback?",
+  	className: "cc_acceptance_cashback"
   },
   {
-  	questionText: "How many examples do I need to train the Natural Language Classifier service?",
-  	className: "optimum_number_training_classes"
+  	questionText: "How do I register for CNP?",
+  	className: "cc_acceptance_cnp"
   },
   {
-  	questionText: "What kind of data can I use the Natural Language Classifier on?",
-  	className: "how_classifier_works"
+  	questionText: "What is CNP?",
+  	className: "cc_acceptance_cnp_what"
   }
 ]
