@@ -1,1157 +1,357 @@
-Can I use my Credit card at Car rental companies?,cc_acceptance_car_rental
-Can I rent a car with my credit card?,cc_acceptance_car_rental
-Can I hire a car with my credit card?,cc_acceptance_car_rental
-Can I use my Credit card at Car hire companies?,cc_acceptance_car_rental
-Can I pay with my credit card when I rent a car?,cc_acceptance_car_rental
-Will Avis accept my card?,cc_acceptance_car_rental
-Will Hertz accept my card?,cc_acceptance_car_rental
-Will Budget accept my card?,cc_acceptance_car_rental
-Will Imperial accept my card?,cc_acceptance_car_rental
-Can I draw cash in a branch?,cc_acceptance_cash_withdrawal
-Where can I draw funds?,cc_acceptance_cash_withdrawal
-Can I get cash overseas?,cc_acceptance_cash_withdrawal
-Can I draw cash at other banks?,cc_acceptance_cash_withdrawal
-Is the card only accepted at ATM for cash withdrawals?,cc_acceptance_cash_withdrawal
-Can I use my card to draw money overseas?,cc_acceptance_cash_withdrawal
-Can I use my card to draw money at any bank?,cc_acceptance_cash_withdrawal
-Is the card excepted at other South African banks?,cc_acceptance_cash_withdrawal
-Can I draw cash with my credit card?,cc_acceptance_cash_withdrawal
-What is a purchase with cashback?,cc_acceptance_cashback
-Can I draw money at a retailer?,cc_acceptance_cashback
-Can I draw money at Pick n Pay?,cc_acceptance_cashback
-Can I draw money at Checkers?,cc_acceptance_cashback
-Can I draw money at Shoprite?,cc_acceptance_cashback
-Can I draw money at Boxer?,cc_acceptance_cashback
-Can I draw money at Spar?,cc_acceptance_cashback
-Can I draw money at supermarkets?,cc_acceptance_cashback
-Can I draw money at shops?,cc_acceptance_cashback
-Can I pay for my purchases and get money at a retailer?,cc_acceptance_cashback
-How do I register for CNP?,cc_acceptance_cnp
-How do I register for shopping on the internet?,cc_acceptance_cnp
-How do I register for online shopping?,cc_acceptance_cnp
-How do I activate online shopping?,cc_acceptance_cnp
-How do I activate CNP?,cc_acceptance_cnp
-Can I shop online?,cc_acceptance_cnp
-Can I do card not present?,cc_acceptance_cnp
-What is CNP?,cc_acceptance_cnp_what
-What is online shopping?,cc_acceptance_cnp_what
-What is card not present?,cc_acceptance_cnp_what
-What is MOTO?,cc_acceptance_cnp_what
-What is mail order/telephone order?,cc_acceptance_cnp_what
-What does CNP mean?,cc_acceptance_cnp_what
-What is internet shopping?,cc_acceptance_cnp_what
-What does CNP stand for?,cc_acceptance_cnp_what
-Can I use my credit card in 3rd party payment applications and wallets?,cc_acceptance_cnp_wallets
-Can I use my credit card in electronic wallets?,cc_acceptance_cnp_wallets
-Can I use my credit card in 3rd party payment applications?,cc_acceptance_cnp_wallets
-Can I use my credit card on other mobile payment apps?,cc_acceptance_cnp_wallets
-Can I use my credit card on other mobile payment applications?,cc_acceptance_cnp_wallets
-Can I use my credit card on Snapscan?,cc_acceptance_cnp_wallets
-Can I use my credit card on Uber?,cc_acceptance_cnp_wallets
-Can I use my credit card on Zapper?,cc_acceptance_cnp_wallets
-Will my credit card be accepted on payment apps?,cc_acceptance_cnp_wallets
-What are e-commerce transactions?,cc_acceptance_ecommerce
-Can I use my credit card for e-commerce transactions?,cc_acceptance_ecommerce
-Can I pay an e-commerce merchant?,cc_acceptance_ecommerce
-Can I pay an internet merchant?,cc_acceptance_ecommerce
-Can I shop at Takealot?,cc_acceptance_ecommerce
-Can I shop at Zando?,cc_acceptance_ecommerce
-Can I shop at Groupon?,cc_acceptance_ecommerce
-Can I shop at Spree?,cc_acceptance_ecommerce
-Can I shop at Runwaysale?,cc_acceptance_ecommerce
-Can I use the credit card all over the world?,cc_acceptance_global
-Can I use the card internationally and what are the fees?,cc_acceptance_global
-Can I use the card oversees?,cc_acceptance_global
-Can a client use the card abroad?,cc_acceptance_global
-Can I use the card in Namibia?,cc_acceptance_global
-Can use the card in London?,cc_acceptance_global
-Can a client use the card in a neighbouring country?,cc_acceptance_global
-Can a client us the card in the United States?,cc_acceptance_global
-Can I use the card in Zambia?,cc_acceptance_global
-Will the card work overseas?,cc_acceptance_global
-Is the card accepted anywhere in the world?,cc_acceptance_global
-Is the Capitec Credit Card accepted internationally?,cc_acceptance_global
-Why can the card not be scanned in mobile payment apps?,cc_acceptance_mobile_pmt_app
-Can the card be scanned in mobile payment apps?,cc_acceptance_mobile_pmt_app
-Can I scan my card in apps?,cc_acceptance_mobile_pmt_app
-Will an app automaticallyread my card number?,cc_acceptance_mobile_pmt_app
-Can I use my phone to scan my card in an app?,cc_acceptance_mobile_pmt_app
-Can I scan my card number in an app?,cc_acceptance_mobile_pmt_app
-How can I scan my card number in an app?,cc_acceptance_mobile_pmt_app
-Why did my card not scan in the app?,cc_acceptance_mobile_pmt_app
-What are MOTO transactions?,cc_acceptance_moto
-What are mail order transactions?,cc_acceptance_moto
-What are telephone order transactions?,cc_acceptance_moto
-Can I use my credit card for telephonic orders?,cc_acceptance_moto
-What does MOTO mean?,cc_acceptance_moto
-Can I use my credit card for shopping over the telephone?,cc_acceptance_moto
-Can I use my credit card for mail shopping?,cc_acceptance_moto
-Can I use my credit card for shopping from magazines?,cc_acceptance_moto
-What is a recurring payment?,cc_acceptance_recurring_payments
-Can I pay my recurring gym membership with my credit card?,cc_acceptance_recurring_payments
-Can I do a subscription payment using my credit card?,cc_acceptance_recurring_payments
-Can I set up frequent payments from my credit card?,cc_acceptance_recurring_payments
-Can I create frequent payments for a period from my credit card?,cc_acceptance_recurring_payments
-Can I pay my cellphone account every month with my credit card?,cc_acceptance_recurring_payments
-Can I give a continuous payment authority from my credit card?,cc_acceptance_recurring_payments
-Can merchants automatically collect monthly payments from my credit card?,cc_acceptance_recurring_payments
-What type of transactions can I do?,cc_acceptance_transaction_type
-Where can I use my card?,cc_acceptance_transaction_type
-Where can I buy with my credit card?,cc_acceptance_transaction_type
-Where can I pay with my credit card?,cc_acceptance_transaction_type
-Can I use the card to buy things on the internet?,cc_acceptance_transaction_type
-How will I know where I can use the card?,cc_acceptance_transaction_type
-What are the different ways I can make a purchase?,cc_acceptance_transaction_type
-Are there any restrictions on the type of purchases I can make with the card?,cc_acceptance_transaction_type
-Any restrictions as far as transaction types are concerned?,cc_acceptance_transaction_type
-Can I use the card for any type of purchase?,cc_acceptance_transaction_type
-What transaction types are supported?,cc_acceptance_transaction_type
-What transaction restrictions will be on the card?,cc_acceptance_transaction_type
-What purchase restrictions will apply?,cc_acceptance_transaction_type
-Will the credit card have any restrictions with regards to purchases?,cc_acceptance_transaction_type
-Will the card have transaction restrictions?,cc_acceptance_transaction_type
-What transactions does my card support?,cc_acceptance_transaction_type
-How do you access your credit?,cc_acceptance_transaction_type
-Can I access my savings account with the credit card?,cc_account_single_card
-Can I have a debit card and a credit card?,cc_account_single_card
-How many accounts can I have on the card?,cc_account_single_card
-Will I need a separate card?,cc_account_single_card
-Do I get a different card?,cc_account_single_card
-Will I have to get another card?,cc_account_single_card
-Will it be linked with the Global One card?,cc_account_single_card
-Will I receive two cards when applying for a credit card?,cc_account_single_card
-Is the credit card going to be linked to the debit card with the savings account?,cc_account_single_card
-Is the credit card going to be on the savings account or on a separate account?,cc_account_single_card
-Will I be able to choose between credit and debit accounts when paying with my card?,cc_account_single_card
-Will a client be able to decide if a purchase must go down on the credit card or savings account?,cc_account_single_card
-Will my credit card be linked with my Global One card?,cc_account_single_card
-Linked to the global one card?,cc_account_single_card
-Does it replace the Global One card?,cc_account_single_card
-Why do I need the Global One card?,cc_account_single_card
-Do I need to have a Capitec Bank account to be eligible for a Capitec Bank credit card?,cc_savings_account
-Must I have a Capitec Bank savings account?,cc_savings_account
-Can I choose not to have a Capitec Bank savings account?,cc_savings_account
-Can I have a savings account and a credit card?,cc_savings_account
-Is it mandatory to have a Capitec account?,cc_savings_account
-Is the credit card compatible with the remote app?,cc_access_app
-Can I access the credit card on the Capitec app?,cc_access_app
-Can I access the credit card via Capitec cellphone banking?,cc_access_app
-Can I view my credit card on Capitec cellphone banking?,cc_access_app
-Can I use my phone to access my credit card?,cc_access_app
-Can I transact on my credit card using my cellphone app?,cc_access_app
-Can I transfer from my credit card on the app?,cc_access_app
-Will my credit card be accessible on the Capitec remote banking app?,cc_access_app
-Is my card linked to global one?,cc_account_structure
-Is the credit card facility separate from the Global One?,cc_account_structure
-Will my credit card be part of Global One?,cc_account_structure
-How does the credit card fit into my existing profile?,cc_account_structure
-Is the credit card separate to Global One?,cc_account_structure
-Is the credit card part of Global One?,cc_account_structure
-Is the credit card linked to my existing Global One?,cc_account_structure
-Can I have a credit card and a Global One?,cc_account_structure
-What happens to the credit facility when the credit card is launched?,cc_account_structure_facility
-When a client applies for a credit card will it impact on existing loans?,cc_account_structure_facility
-What will happen to existing loans if a client applies for a credit card?,cc_account_structure_facility
-Could I have a credit card and a credit facility?,cc_account_structure_facility
-How will the credit card impact my existing credit products?,cc_account_structure_facility
-What will happen to my term loans when I apply for a credit card?,cc_account_structure_facility
-Will I be able to have a term loan and a credit card?,cc_account_structure_facility
-Will I have to settle my existing loans?,cc_account_structure_facility
-Will I have to settle my credit facility?,cc_account_structure_facility
-How will the credit card work with the other Capitec Bank products?,cc_account_structure
-How does the credit card work with the other Capitec Bank products?,cc_account_structure
-Is the credit card part of Global One?,cc_account_structure
-Does the credit card fit in with Global One?,cc_account_structure
-Does the credit card work with the other Capitec Bank products?,cc_account_structure
-Does the credit card fit in with remote banking?,cc_account_structure
-Is the credit card another card in Global One?,cc_account_structure
-How does the credit card fit my Capitec Bank savings account?,cc_account_structure
-How long will I wait before I get my credit card?,cc_application
-How do i get the card?,cc_application
-How will I know if I qualify for a credit card?,cc_application
-Where can I apply?,cc_application
-Can I apply online?,cc_application
-When can I start using the credit card?,cc_application
-Where can I get a credit card?,cc_application
-Where can I get my credit card?,cc_application
-Where can I apply for my credit card?,cc_application
-How do you apply for the credit card?,cc_application
-When will the credit card be active?,cc_application
-How long will it take me to use my credit after it has been approved?,cc_application
-How long does it take for approval for the credit card?,cc_application
-How do I apply for one?,cc_application
-How does the process to apply work?,cc_application
-How do I get a card?,cc_application
-If I apply for the credit card do I get it immediately?,cc_application
-When I apply will I get the card immediately?,cc_application
-"If I apply, what do I need provide in order to apply?",cc_application_account_required
-What documents are required to apply?,cc_application_account_required
-"What proof of income is
-required to apply?",cc_application_account_required
-Do I need to have a bank account?,cc_application_account_required
-What documents do you need to apply?,cc_application_account_required
-Are there required documents to apply?,cc_application_account_required
-What documents do an existing client need to apply?,cc_application_account_required
-What documents do a new client need to apply?,cc_application_account_required
-How can I increase my affordability?,cc_application_affordability
-How can I qualify for a bigger limit?,cc_application_affordability
-How can I get more credit?,cc_application_affordability
-How can I qualify for more credit?,cc_application_affordability
-What do I have to do to qualify for more?,cc_application_affordability
-How can I increase my affordability?,cc_application_affordability
-How can I improve my affordability?,cc_application_affordability
-How can I get more credit?,cc_application_affordability
-Why can I not have a credit facility and a credit card?,cc_application_credit_facility
-Why must I settle my credit facility to get a credit card?,cc_application_credit_facility
-Can I have a credit card and a credit facility?,cc_application_credit_facility
-Can I have more than one credit facility?,cc_application_credit_facility
-Do I need to settle my credit facility?,cc_application_credit_facility
-Do I need to cancel my credit facility?,cc_application_credit_facility
-Do I need to close my credit facility to get a credit card?,cc_application_credit_facility
-Do I need to close my credit card to get a credit facility?,cc_application_credit_facility
-What can I do if I do not qualify for a credit card?,cc_application_not_qualified
-What are my options if I do not qualify for a credit card?,cc_application_not_qualified
-What are my alternatives if I do not qualify for a credit card?,cc_application_not_qualified
-What if I don?t qualify for a credit card?,cc_application_not_qualified
-Why did I not qualify for a credit card?,cc_application_not_qualified
-What can I do if my credit card application is declined?,cc_application_not_qualified
-What can I do if my credit card application is not approved?,cc_application_not_qualified
-What can I do if my credit card application is not successful?,cc_application_not_qualified
-What do I need to bring when I apply for a credit card?,cc_application_required
-What do I need to get the credit card from Capitec Bank?,cc_application_required
-What do I need to apply for to get a card?,cc_application_required
-What documents are required to apply?,cc_application_required
-What do I need to bring when applying for a credit card?,cc_application_required
-Is there documentation the client must bring when applying for a credit card?,cc_application_required
-What papers will be necessary when applying?,cc_application_required
-What will a client need to bring when applying for a credit card?,cc_application_required
-How will I be able to manage my spending?,cc_benefit_card_management
-Where can I see all my transactions?,cc_benefit_card_management
-Do I get a statement?,cc_benefit_card_management
-How will I see all my transactions done?,cc_benefit_card_management
-Can I get a history of all my transactions?,cc_benefit_card_management
-Will I be notified of transactions on my account?,cc_benefit_card_management
-Where can I get my statement?,cc_benefit_card_management
-Will I get an SMS when I use my card?,cc_benefit_card_management
-Will I get a monthly account to see how much I must pay?,cc_benefit_card_management
-How can I see how much I have spent on my credit card?,cc_benefit_card_management
-Can I access my credit card statement on my phone?,cc_benefit_card_management
-Are there any benefits?,cc_benefits_all
-What are the benefits of a credit card?,cc_benefits_all
-What are the features of a credit card?,cc_benefits_all
-Why do I need a credit card?,cc_benefits_all
-Do I need a Capitec Credit Card?,cc_benefits_all
-Why should I get a card?,cc_benefits_all
-What are the advantages of a credit card?,cc_benefits_all
-Does a credit card have any perks?,cc_benefits_all
-Why is a credit card useful?,cc_benefits_all
-What makes a credit card convenient?,cc_benefits_all
-Is there any plus points to a credit card?,cc_benefits_all
-What features do the credit card offer?,cc_benefits_all
-What are all the benefits included in the card?,cc_benefits_all
-What are all the included benefits?,cc_benefits_all
-Will the credit card be more convenient for me? Because I like the fact to only use one card,cc_benefits_all
-What are the advantages of a credit card?,cc_benefits_all
-How is the Capitec credit card different from other credit cards?,cc_different_all
-What is unique about the Capitec credit card?,cc_different_all
-Why should I get a Capitec credit card?,cc_different_all
-How is Capitec?s credit card different?,cc_different_all
-What does a Capitec credit card offer that other banks don?t?,cc_different_all
-What makes your credit card special?,cc_different_all
-Is your credit card not just the same as any other credit card?,cc_different_all
-Why should I choose a Capitec credit card?,cc_different_all
-Is a Capitec credit card different?,cc_different_all
-What is a budget facility?,cc_benefits_budget
-Is there a budget facility?,cc_benefits_budget
-How does the budget facility work?,cc_benefits_budget
-Can I pay purchases off over time?,cc_benefits_budget
-Do you have a budget feature?,cc_benefits_budget
-Can I use budget?,cc_benefits_budget
-Can I get an extended repayment option for the purchase of larger value transactions?,cc_benefits_budget
-How does a budget transaction work?,cc_benefits_budget
-What is the reason to have a budget facility?,cc_benefits_budget
-Do you have a budget account?,cc_benefits_budget
-Do I get an option to pay off certain purchases for a longer period?,cc_benefits_budget
-Can I use a portion of my credit facility and structure the repayment over an extended term?,cc_benefits_budget
-Why can my card not do a budget transaction at a specific merchant?,cc_benefits_budget_acceptance
-Why is there a difference in maximum budget periods?,cc_benefits_budget_acceptance
-What is the minimum budget period allowed?,cc_benefits_budget_acceptance
-What is the maximum budget repayment period?,cc_benefits_budget_acceptance
-What can I buy on my budget account?,cc_benefits_budget_acceptance
-When can I buy on my budget account?,cc_benefits_budget_acceptance
-Where can I buy on my budget account?,cc_benefits_budget_acceptance
-How do I know what my maximum budget period is?,cc_benefits_budget_acceptance
-How and when do I repay my budget transactions?,cc_benefits_budget_repayment
-How must I pay my budget account?,cc_benefits_budget_repayment
-When do I repay my budget account?,cc_benefits_budget_repayment
-When do I repay my budget transactions?,cc_benefits_budget_repayment
-When do I pay my budget transactions?,cc_benefits_budget_repayment
-What are my budget repayment options?,cc_benefits_budget_repayment
-How does the repayment on budget work?,cc_benefits_budget_repayment
-Does the budget account affect my monthly repayment?,cc_benefits_budget_repayment
-Can I change a straight purchase to a budget?,cc_benefits_budget_transnfer
-How / where can I change a straight purchase to a budget?,cc_benefits_budget_transnfer
-Can I get a budget account after a purchase?,cc_benefits_budget_transnfer
-Can I change an existing purchase to budget?,cc_benefits_budget_transnfer
-Can I change my straight balance to budget?,cc_benefits_budget_transnfer
-Can I convert a straight to budget?,cc_benefits_budget_transnfer
-Can I move my outstanding balance to budget?,cc_benefits_budget_transnfer
-How can I change straight to budget?,cc_benefits_budget_transnfer
-What is the difference between straight and budget?,cc_benefits_budget_what
-How is a budget transaction different to a straight transaction?,cc_benefits_budget_what
-Is the interest the same on budget and straight?,cc_benefits_budget_what
-How does budget and straight differ?,cc_benefits_budget_what
-Why is there a budget and a straight offer?,cc_benefits_budget_what
-What makes a budget transaction different from a straight?,cc_benefits_budget_what
-What makes a budget account different from a straight?,cc_benefits_budget_what
-When do I decide straight or budget?,cc_benefits_budget_what
-Can I pay extra money into my budget?,cc_pay_budget
-How do I pay extra money into my budget?,cc_pay_budget
-How can I pay off my budget account quicker?,cc_pay_budget
-How can I reduce my budget balance?,cc_pay_budget
-Is there a way to pay off my budget account quicker?,cc_pay_budget
-Is there a way to pay off my budget account sooner?,cc_pay_budget
-Can I use my extra money to pay off my budget account?,cc_pay_budget
-Where can I pay off my budget account?,cc_pay_budget
-Can I close my budget early?,cc_pay_budget
-How do I settle my budget account?,cc_pay_budget
-When do I settle my budget account?,cc_pay_budget
-What is credit insurance?,cc_benefits_insurance_credit_life
-What is credit insurance?,cc_benefits_insurance_credit_life
-Do I need to take out credit insurance?,cc_benefits_insurance_credit_life
-Is credit insurance compulsory?,cc_benefits_insurance_credit_life
-Am I covered if I die?,cc_benefits_insurance_credit_life
-What is covered by credit insurance?,cc_benefits_insurance_credit_life
-Will my credit card be paid if I die?,cc_benefits_insurance_credit_life
-What happens if I am retrenched?,cc_benefits_insurance_credit_life
-What is lost card protection?,cc_benefits_lost_card
-Who is responsible for transactions if I lose my card?,cc_benefits_lost_card
-Do you offer cover if I lost my card?,cc_benefits_lost_card
-Will I pay for fraud if my card was stolen?,cc_benefits_lost_card
-Do I have protection against fraudulent transactions if my card was lost?,cc_benefits_lost_card
-Is there insurance against fraud?,cc_benefits_lost_card
-Am I covered for fraudulent purchases?,cc_benefits_lost_card
-Are any fraudulent transaction prior to a lost card report covered?,cc_benefits_lost_card
-If my PIN was used in a fraudulent transaction will it be covered by the standard lost card protection?,cc_benefits_lost_card
-Do I have lost card protection?,cc_benefits_lost_card
-What is lost card protection?,cc_benefits_lost_card
-How safe is it to use a credit card?,cc_benefits_safety
-"Cards get cloned and skimmed, how is Capitec Bank?s credit card protected from this?",cc_benefits_safety
-How secure is the credit card?,cc_benefits_safety
-What makes a credit card a safer payment option?,cc_benefits_safety
-Is it safe?,cc_benefits_safety
-Is there a secret code?,cc_benefits_safety
-Can I get my money back?,cc_benefits_safety
-How is the card protected?,cc_benefits_safety
-Can my credit card be used if stolen?,cc_benefits_safety
-Is it safe to use a credit card?,cc_benefits_safety
-Will I be protected against fraud?,cc_benefits_safety
-What are the safety benefits of a credit card?,cc_benefits_safety
-Do I have protection against losses if I use my credit card?,cc_benefits_safety
-How am I protected against fraud?,cc_benefits_safety
-Is there any added protection when using the credit card I would not have when using a debit card?,cc_benefits_safety
-Will it have a PIN?,cc_benefits_safety
-Does it come with a PIN?,cc_benefits_safety
-"Is the credit card secured
-with a PIN?",cc_benefits_safety
-Does my card have a chip & PIN?,cc_benefits_safety
-Can I request an additional credit card for my spouse?,cc_benefits_supplementary_cards
-Can I have multiple cards?,cc_benefits_supplementary_cards
-Can you have more than one card?,cc_benefits_supplementary_cards
-What is the fee if you need a second credit card?,cc_benefits_supplementary_cards
-Can I get another card on the same account?,cc_benefits_supplementary_cards
-Is there a fee for another card on the same account?,cc_benefits_supplementary_cards
-Will a client be able to get another card on the same credit card account?,cc_benefits_supplementary_cards
-Can a client get supplementary credit cards?,cc_benefits_supplementary_cards
-Will Capitec Bank allow additional cards on the same credit card facility?,cc_benefits_supplementary_cards
-What is travel insurance?,cc_benefits_travel
-Is there travel insurance?,cc_benefits_travel
-Do you cover travel?,cc_benefits_travel
-Do you offer travel insurance?,cc_benefits_travel
-What about travel insurance?,cc_benefits_travel
-Do you offer insurance?,cc_benefits_travel
-Am I insured overseas?,cc_benefits_travel
-Do I have insurance when I travel?,cc_benefits_travel
-How do you qualify for travel insurance?,cc_benefits_travel
-Is travel insurance free?,cc_benefits_travel
-Do I get cover for losses or injuries when I buy my airline ticket with my credit card?,cc_benefits_travel
-Is there insurance when I travel?,cc_benefits_travel
-Can I claim for certain items when I suffer unexpected losses while travelling?,cc_benefits_travel
-Am I covered for losses when on I am going away on holiday?,cc_benefits_travel
-Am I covered when I buy airplane tickets?,cc_benefits_travel
-"Does the features include medical, lost luggage and flight accidents while traveling?",cc_benefits_travel
-What insurance is there?,cc_benefits_travel
-What is a credit card?,cc_benefits_why
-When would you use a credit card?,cc_benefits_why
-Why would I use a credit card?,cc_benefits_why
-Why should I get a credit card?,cc_benefits_why
-Why do I need a credit card?,cc_benefits_why
-What will the credit card offer me?,cc_benefits_why
-When do I re-apply for a credit card?,cc_benefits_why
-Why should I have a credit card?,cc_benefits_why
-Does the credit card come with insurance?,cc_benifits_insurance_general
-How much does the  insurance cost?,cc_benifits_insurance_general
-Does your credit card have insurance?,cc_benifits_insurance_general
-Does the credit card offer any insurance cover?,cc_benifits_insurance_general
-Is there any standard insurance cover included?,cc_benifits_insurance_general
-Is there any cover included in the service fee?,cc_benifits_insurance_general
-Is there any insurance included in the service fee?,cc_benifits_insurance_general
-Will a client get any cover and how will it be charged?,cc_benifits_insurance_general
-What general insurance is included?,cc_benifits_insurance_general
-Is there any cover?,cc_benifits_insurance_general
-Can I expect any cover?,cc_benifits_insurance_general
-How many budget facilities does it have?,cc_budget_number
-How many budget  facilities does the credit card offer?,cc_budget_number
-How many budget facilities will be available in the credit card?,cc_budget_number
-Is there a limit to the amount of budget purchases?,cc_budget_number
-What is the maximum number of budgets?,cc_budget_number
-Will a client be limited to  the amount of budget facilities?,cc_budget_number
-Is there a maximum budget facilities per card?,cc_budget_number
-Can I make 9999 budget purchases?,cc_budget_number
-Will there be different coloured cards?,cc_card_attributes_color
-Can I get a platinum card?,cc_card_attributes_color
-What colour is the credit  card?,cc_card_attributes_color
-What type of credit cards  do you offer?,cc_card_attributes_color
-Will different clients get  differently coloured cards?,cc_card_attributes_color
-Will the credit card be  available in different colours?,cc_card_attributes_color
-Will there be different  credit card products depending on your income and history?,cc_card_attributes_color
-Can a client qualify for  different levels of credit cards?,cc_card_attributes_color
-What will the credit card look like?,cc_card_attributes_color
-Is my credit card contactless?,Cc_card_contactless
-Can I do contactless transactions?,Cc_card_contactless
-Can I pay on the bus?,Cc_card_contactless
-Can I pay MyCiti bus?,Cc_card_contactless
-Can I pay Re A Vaya bus?,Cc_card_contactless
-Can I do tap and go?,Cc_card_contactless
-Can I tap my credit card?,Cc_card_contactless
-How long until I have to reapply?,Cc_card_expiry
-When will my card expire?,Cc_card_expiry
-What if my card expires?,Cc_card_expiry
-How long will my card be valid?,Cc_card_expiry
-For what period will my card be valid?,Cc_card_expiry
-What happens if my card expires?,Cc_card_expiry
-How do I replace my card if it expires?,Cc_card_expiry
-How long can I keep my card?,Cc_card_expiry
-Can I get a Visa credit card?,Cc_card_type
-Do I get a Visa credit card?,Cc_card_type
-Do you offer a Visa credit card?,Cc_card_type
-What type of credit card do I get?,Cc_card_type
-Why can I not get a Visa credit card?,Cc_card_type
-Do I get a MasterCard credit card?,Cc_card_type
-Can I get a MasterCard credit card?,Cc_card_type
-Can I get a Visa or a MasterCard credit card?,Cc_card_type
-When may I get chargeback protection?,cc_charge_back_events
-Can I reverse a transaction?,cc_charge_back_events
-What if I am not satisfied with my purchase?,cc_charge_back_events
-Can I get my money back if I did not get the goods?,cc_charge_back_events
-What can I do if I am not happy with my purchase?,cc_charge_back_events
-"I was charged more than once, what now?",cc_charge_back_events
-Can I reverse a duplicate transaction?,cc_charge_back_events
-What is chargeback protection?,cc_charge_back_events
-How much are you allowed to use on your credit card facility?,cc_credit_limit
-What is a credit limit?,cc_credit_limit
-What is my credit limit?,cc_credit_limit
-How much credit do I get?,cc_credit_limit
-How is my credit limit determined?,cc_credit_limit
-How much can I spend?,cc_credit_limit
-How is my credit limit calculated?,cc_credit_limit
-Do I have an unlimited amount of credit?,cc_credit_limit
-Can you increase my credit card limit automatically every year?,cc_credit_limit_auto_increase
-What is automatic limit increase?,cc_credit_limit_auto_increase
-How much will my credit card automatic limit increase be?,cc_credit_limit_auto_increase
-Can my credit card limit increase without me asking for it?,cc_credit_limit_auto_increase
-Can my credit card limit increase automatically?,cc_credit_limit_auto_increase
-When will my credit card limit increase automatically?,cc_credit_limit_auto_increase
-Will I get more credit available on my credit card over time?,cc_credit_limit_auto_increase
-Will I know if my credit card limit increased?,cc_credit_limit_auto_increase
-Why did my credit card limit increase without me requesting it?,cc_credit_limit_auto_increase
-What happens if I exceed my limit?,cc_credit_limit_exceed_action
-What must I do if I exceed my credit limit?,cc_credit_limit_exceed_action
-What will happen if I spend more than my credit card limit?,cc_credit_limit_exceed_action
-What will happen if I go over my credit card limit?,cc_credit_limit_exceed_action
-Is it possible to go over my credit card limit?,cc_credit_limit_exceed_action
-Will exceeding my limit impact my credit rating?,cc_credit_limit_exceed_action
-When must I pay if I am over my credit card limit?,cc_credit_limit_exceed_action
-Can my credit limit be exceeded?,cc_credit_limit_exceed_action
-How do I ensure I do not overextend myself with my credit card?,cc_credit_limit_exceed_prevent
-How do I ensure I do not get in trouble with my credit card?,cc_credit_limit_exceed_prevent
-How do I ensure I do not exceed my credit card limit?,cc_credit_limit_exceed_prevent
-How do I ensure I do not go over my credit card limit?,cc_credit_limit_exceed_prevent
-How to I keep track of my balance?,cc_credit_limit_exceed_prevent
-How do I monitor my credit card spending?,cc_credit_limit_exceed_prevent
-How do I check my outstanding balance?,cc_credit_limit_exceed_prevent
-Where can I view my outstanding balance?,cc_credit_limit_exceed_prevent
-How often can my credit card limit be increased?,cc_credit_limit_increase
-When can I increase my credit card limit?,cc_credit_limit_increase
-Where can I increase my credit card limit?,cc_credit_limit_increase
-How can I increase my credit card limit?,cc_credit_limit_increase
-Can I increase my credit card limit?,cc_credit_limit_increase
-How do I increase my credit card limit?,cc_credit_limit_increase
-Is it possible to increase my credit card limit?,cc_credit_limit_increase
-What if I need more credit on my credit card?,cc_credit_limit_increase
-How different is a credit card from a term loan?,cc_credit_revolving_what_is
-What is the difference between your credit card and your fixed term credit?,cc_credit_revolving_what_is
-What is revolving credit?,cc_credit_revolving_what_is
-How do I repay my term loan differently to my credit card?,cc_credit_revolving_what_is
-What is the difference between my term loan and my credit card?,cc_credit_revolving_what_is
-Are there differences between a term loan and a credit card?,cc_credit_revolving_what_is
-Is a credit card fixed term credit?,cc_credit_revolving_what_is
-How does the credit card vary from a loan?,cc_credit_revolving_what_is
-Can I choose the term of the card?,cc_feature_term
-Does the card have an expiry date?,cc_feature_term
-For how long is the credit card valid for?,cc_feature_term
-How long is the credit card valid?,cc_feature_term
-Does it have an end time?,cc_feature_term
-Does it have an end period?,cc_feature_term
-How long is the card valid for?,cc_feature_term
-Does the card expire?,cc_feature_term
-How long before it expires?,cc_feature_term
-Will the card expire?,cc_feature_term
-What is the maximum amount of money I can draw from my credit card?,cc_features_daily_limits
-What is the daily limit?,cc_features_daily_limits
-What is the cash amount I can draw?,cc_features_daily_limits
-Can I set the limit myself?,cc_features_daily_limits
-What are the maximum withdrawal and swiping limits?,cc_features_daily_limits
-Can there be a limit in place to protect the account being over used?,cc_features_daily_limits
-Can I limit myself to the maximum I can buy per day?,cc_features_daily_limits
-What is the maximum I can use my card for per day?,cc_features_daily_limits
-What is the maximum amount I can draw with my card?,cc_features_daily_limits
-What is the maximum I can draw on a day?,cc_features_daily_limits
-How much can I draw in a day?,cc_features_daily_limits
-What is the maximum amount of money I can draw from an ATM?,cc_features_daily_limits
-What is the maximum amount I can get from an ATM?,cc_features_daily_limits
-What is the most money I can draw?,cc_features_daily_limits
-How does the limit I can draw at an ATM work?,cc_features_daily_limits
-With my credit card how much money can I draw?,cc_features_daily_limits
-What amount of money can I draw at an ATM with my credit card?,cc_features_daily_limits
-What is the maximum amount of cash I can draw at an ATM with my credit card?,cc_features_daily_limits
-What is the maximum amount of cash I can draw at an ATM with my credit card in a day?,cc_features_daily_limits
-Can I change my daily limits?,cc_features_daily_limits
-Will I be charged a fee to change my daily limits?,cc_features_daily_limits
-What is the maximum international transactions I can do?,cc_features_daily_limits_international
-How much can I buy overseas?,cc_features_daily_limits_international
-How much can I spend overseas?,cc_features_daily_limits_international
-Is there a limit for international transactions?,cc_features_daily_limits_international
-Is there a limit for international spending?,cc_features_daily_limits_international
-How much can I withdraw overseas per year?,cc_features_daily_limits_international
-What are my annual overseas limits?,cc_features_daily_limits_international
-What are my annual international limits?,cc_features_daily_limits_international
-What are the temporary daily limits?,cc_features_daily_limits_temporary
-Do I have temporary daily limits?,cc_features_daily_limits_temporary
-Can I set a higher card limit for a short period?,cc_features_daily_limits_temporary
-Do I have an option to adjust my daily limit temporarily?,cc_features_daily_limits_temporary
-Can I change my purchase limit for a short period?,cc_features_daily_limits_temporary
-Can I change my daily cash withdrawal limit for a short period?,cc_features_daily_limits_temporary
-Can I change my internet credit card payment limit for a short period?,cc_features_daily_limits_temporary
-Are my daily limits fixed?,cc_features_daily_limits_temporary
-Will I be able to get a petrol card with my credit card?,cc_features_garage_petrol
-Is there an option for a fuel card?,cc_features_garage_petrol
-Can I use my card at a filling station?,cc_features_garage_petrol
-Will I be able fill up his vehicle with the credit card?,cc_features_garage_petrol
-Is there a garage card option?,cc_features_garage_petrol
-Will a client be able to use his card for buying petrol or diesel?,cc_features_garage_petrol
-Can I use my card to buy petrol or diesel?,cc_features_garage_petrol
-Can a client purchase fuel with the credit card?,cc_features_garage_petrol
-Can I pay for petrol with my credit card?,cc_features_garage_petrol
-Will I be able to make arrangements?,cc_features_payment_arrangement
-What happens when I default to pay for my Capitec Credit Card?,cc_features_payment_arrangement
-What happens if I don't make a payment?,cc_features_payment_arrangement
-What happens when I skip payment?,cc_features_payment_arrangement
-What happens if a client fails to make a payment?,cc_features_payment_arrangement
-If I can't make the 5% payment what will happen?,cc_features_payment_arrangement
-Is there other options if I cannot make an payment?,cc_features_payment_arrangement
-Will I be black listed if I miss a payment?,cc_features_payment_arrangement
-What must I do if I cannot make my minimum payment due ?,cc_features_payment_arrangement
-What fees will I pay to use my credit card?,cc_fees_all
-What will I pay?,cc_fees_all
-Are there any charges?,cc_fees_all
-What are all the costs?,cc_fees_all
-What do I have to pay?,cc_fees_all
-How much are the fees?,cc_fees_all
-How much do you charge?,cc_fees_all
-Can you explain your fee structure?,cc_fees_all
-How expensive is the card?,cc_fees_all
-Is the card affordable?,cc_fees_all
-What fee will I pay?,cc_fees_all
-Do I pay fees?,cc_fees_all
-What is the fee that I will pay?,cc_fees_all
-What are the charges of the credit card?,cc_fees_all
-How much will the charges of the charges of the credit card be?,cc_fees_all
-How much will it cost?,cc_fees_all
-How much do I pay for the actual card?,cc_fees_card_replacement_how_much
-What is the fee for a replacement card?,cc_fees_card_replacement_how_much
-How much is a replacement card?,cc_fees_card_replacement_how_much
-Is a card replacement expensive?,cc_fees_card_replacement_how_much
-What does a replacement card cost?,cc_fees_card_replacement_how_much
-Do I pay to get a replacement card?,cc_fees_card_replacement_how_much
-Will I pay a fee to have my card replaced?,cc_fees_card_replacement_how_much
-Is there a fee to have a card replaced?,cc_fees_card_replacement_how_much
-What is the cost of a new card as my old one is not working?,cc_fees_card_replacement_how_much
-How much will I pay to replace my card?,cc_fees_card_replacement_how_much
-Is there a fee charge when replacing a lost or stolen card?,cc_fees_card_replacement_how_much
-What type of replacements will I be charged for?,cc_fees_card_replacement_how_much
-When will I be charged for all card replacements?,cc_fees_card_replacement_how_much
-Do I always pay for a replacement card?,cc_fees_card_replacement_how_much
-Do I pay for a lost card?,cc_fees_card_replacement_how_much
-Must I pay to replace a damaged card?,cc_fees_card_replacement_how_much
-What happens if I lose my card?,cc_fees_card_replacement_how_much
-Will I have to pay something to have my lost card replaced?,cc_fees_card_replacement_how_much
-How much will I pay for a new card to replace my card that was stolen?,cc_fees_card_replacement_how_much
-Do I pay a fee to get a new card when my old card expired?,cc_fees_card_replacement_how_much
-How much will I pay to have a card replaced?,cc_fees_card_replacement_how_much
-Is there a fee charge for a card lost or stolen?,cc_fees_card_replacement_how_much
-What are the cash deposit fees on a credit card?,cc_fees_deposit
-Will I pay a fee if I deposit cash on the credit card account?,cc_fees_deposit
-Will I have to pay anything if a deposit cash on the account?,cc_fees_deposit
-Is there a fee for cash deposits?,cc_fees_deposit
-What is the cash deposit fee for a credit card?,cc_fees_deposit
-Will a client pay a fee for depositing cash on the account?,cc_fees_deposit
-If I deposit cash on the credit card account will there be a fee?,cc_fees_deposit
-Is there a fee for deposits in branch?,cc_fees_deposit
-What do I pay for the set- up of the account?,cc_fees_initiation_what
-To get the card how much will it cost?,cc_fees_initiation_what
-What is the initiation fee?,cc_fees_initiation_what
-Is there a start up fee?,cc_fees_initiation_what
-How much is the once off cost?,cc_fees_initiation_what
-Are there any up front charges?,cc_fees_initiation_what
-What are the initiation costs?,cc_fees_initiation_what
-What is the set-up fee?,cc_fees_initiation_what
-What is the upfront fee for opening the account?,cc_fees_initiation_what
-Is there a set-up fee?,cc_fees_initiation_what
-Is there an initiation fee?,cc_fees_initiation_what
-How much do I pay for the set-up fee?,cc_fees_initiation_what
-How much is the set-up fee?,cc_fees_initiation_what
-How much is the initiation fee?,cc_fees_initiation_what
-When is the initiation fee payable?,cc_fees_initiation_what
-When do I have to pay the startup fee?,cc_fees_initiation_what
-When will I pay the initiation fee?,cc_fees_initiation_what
-Is the initiation fee debited when I open the account?,cc_fees_initiation_what
-Will the initiation fee be payable when I open the account?,cc_fees_initiation_what
-Is the initiation fee charged monthly?,cc_fees_initiation_what
-What do I have to pay to open the account?,cc_fees_initiation_what
-"How much do other
-banks charge for credit card facility?",cc_fees_other_bank
-How does your credit card fees compare to other banks?,cc_fees_other_bank
-"How much do other bank
-charge?",cc_fees_other_bank
-"Are your credit card fees
-competitive?",cc_fees_other_bank
-"How much does a credit
-card cost at another bank?",cc_fees_other_bank
-"Would I pay less for your
-credit card than at another bank?",cc_fees_other_bank
-"Is your credit card more
-expensive?",cc_fees_other_bank
-"Is your credit card
-cheaper?",cc_fees_other_bank
-How much is the service fee?,cc_fees_service_how_much
-How much are the monthly charges?,cc_fees_service_how_much
-"How much are the
-account charges per month?",cc_fees_service_how_much
-What is the monthly cost of the card?,cc_fees_service_how_much
-How much will I pay for the card?,cc_fees_service_how_much
-Will the credit card be free?,cc_fees_service_how_much
-"How much does the
-credit card cost per month?",cc_fees_service_how_much
-Is there a service fee?,cc_fees_service_how_much
-What will the max be for monthly usage,cc_fees_service_how_much
-What is the service fee?,cc_fees_service_how_much
-Is there a service fee?,cc_fees_service_how_much
-Are there any monthly costs?,cc_fees_service_how_much
-How much are the recurring charges?,cc_fees_service_how_much
-What fee will I pay monthly?,cc_fees_service_how_much
-Is there a monthly fixed fee?,cc_fees_service_how_much
-Is there a yearly card fee?,cc_fees_service_how_much
-Will I pay an annual card fee?,cc_fees_service_how_much
-How will the service fee be recovered?,cc_fees_service_how_much
-What is the card fee?,cc_fees_service_how_much
-Is there a fee for the administration of my account?,cc_fees_service_how_much
-Do I pay for the maintenance of my account?,cc_fees_service_how_much
-Do I still have to pay even if I do not use the card?,cc_fees_service_how_much
-Will I have to pay if I don?t use the card?,cc_fees_service_how_much
-Do I pay an additional fee for the card?,cc_fees_service_how_much
-Is there extra costs for the card?,cc_fees_service_how_much
-When is the service fee payable?,cc_fees_service_how_much
-How often do I pay the service fee?,cc_fees_service_how_much
-When will I pay a service fee?,cc_fees_service_how_much
-Will I pay something if I don?t use the card?,cc_fees_service_how_much
-Will I pay a monthly fee for my card?,cc_fees_service_how_much
-Is there a monthly cost for the card?,cc_fees_service_how_much
-What transaction fees are payable?,cc_fees_transaction_all
-What will it cost to withdraw funds in a different country?,cc_fees_transaction_all
-Are the transaction fees?,cc_fees_transaction_all
-What will I pay for purchases?,cc_fees_transaction_all
-Are there any charges per transaction?,cc_fees_transaction_all
-How affordable is it to use the card?,cc_fees_transaction_all
-Will I pay if I use my card to draw money?,cc_fees_transaction_all
-What is the fee for cash?,cc_fees_transaction_all
-How much will it cost to draw money in the branch?,cc_fees_transaction_all
-Is it expensive to use the card?,cc_fees_transaction_all
-Do I pay a fee if a transaction is declined?,cc_fees_transaction_all
-How much will a transaction at a till point cost?,cc_fees_transaction_all
-When I use the card how much will I be charged?,cc_fees_transaction_all
-How much will I be charged for using the card?,cc_fees_transaction_all
-Is my card accepted at ATM and how much will it cost?,cc_fees_transaction_all
-Do I get charged a fee if I do not have sufficient funds when making a purchase or withdrawing cash at an ATM?,cc_fees_transaction_all
-Is there a penalty for declined transactions?,cc_fees_transaction_all
-What is the cost of declined transactions?,cc_fees_transaction_all
-What happens if I don't have enough money in my card?,cc_fees_transaction_all
-Will I pay a fee if I do not have sufficient funds for a purchase?,cc_fees_transaction_all
-Is there a decline fee?,cc_fees_transaction_all
-What is the cost if I do not have enough money when trying to do cash withdraw?,cc_fees_transaction_all
-How expensive is a declined transaction?,cc_fees_transaction_all
-Do I pay something if I don?t have enough money in my account?,cc_fees_transaction_all
-Will I be penalised if I don?t have enough money in my account for a purchase?,cc_fees_transaction_all
-What will happen in I try to do a transaction for more than I have in my account?,cc_fees_transaction_all
-Is there a penalty fee if I do not have enough funds?,cc_fees_transaction_all
-Is there a penalty for insufficient funds?,cc_fees_transaction_all
-Do I pay for a declined transaction?,cc_fees_transaction_all
-Do I pay for POS purchases?,cc_fees_transaction_all
-What is the fee for till transactions?,cc_fees_transaction_all
-How much are the POS fees?,cc_fees_transaction_all
-What does it cost to purchase something?,cc_fees_transaction_all
-Will I pay a fee for a SMS?,cc_fees_transaction_all
-How affordable is it to use the card for purchases?,cc_fees_transaction_all
-What transactions are free?,cc_fees_transaction_all
-Do I pay a fee to use the card at a till point?,cc_fees_transaction_all
-What does it cost to get a SMS to let me know a transaction was done?,cc_fees_transaction_all
-Is there a fee if I use my card at a card machine?,cc_fees_transaction_all
-I there a transaction fee when using the card at a merchant?,cc_fees_transaction_all
-Do I pay for cash withdrawal transactions?,cc_fees_transaction_all
-How much do you charge for ATM withdrawals?,cc_fees_transaction_all
-What is the cheapest way to get cash?,cc_fees_transaction_all
-What is the fee for international cash withdrawals?,cc_fees_transaction_all
-What is the fee for getting cash at a till?,cc_fees_transaction_all
-Can I draw money from a till and how much will I pay?,cc_fees_transaction_all
-What is the fee to get cash at an ATM?,cc_fees_transaction_all
-Can I draw money at another banks ATM and what will the transaction cost?,cc_fees_transaction_all
-How expensive is it to draw money?,cc_fees_transaction_all
-Is the card affordable to use to draw money?,cc_fees_transaction_all
-Will I pay a fee if I draw money at an overseas ATM?,cc_fees_transaction_all
-What is the cost of a foreign cash machine transaction?,cc_fees_transaction_all
-What are the ATM charges for a withdrawal?,cc_fees_transaction_all
-Where do I report fraud on my credit card?,Cc_fraud
-How do I report fraud on my credit card?,Cc_fraud
-What should I do if I find a transaction I did not do?,Cc_fraud
-How can I report fraud?,Cc_fraud
-How can I report fraud on my credit card?,Cc_fraud
-Where do I report fraud on my credit card?,Cc_fraud
-What should I do if I find a suspicious transaction on my account?,Cc_fraud
-How do I report suspicious transactions on my credit card?,Cc_fraud
-How is my interest calculated?,cc_interest_how_calculated
-Is interest charged monthly?,cc_interest_how_calculated
-Is interest calculated daily?,cc_interest_how_calculated
-When do you calculate interest?,cc_interest_how_calculated
-At what rate is interest calculated?,cc_interest_how_calculated
-When will the interest be added to my account?,cc_interest_how_calculated
-Which balance is used for interest?,cc_interest_how_calculated
-How do you capitalise interest?,cc_interest_how_calculated
-At what rate will I pay interest?,cc_interest_how_calculated
-Will I earn interest on my positive balance in my credit card account?,Cc_interest_rate_positive_ balance
-At which rate will I earn interest for my positive balance in my credit card account?,Cc_interest_rate_positive_ balance
-What is the credit balance interest rate on my credit card?,Cc_interest_rate_positive_ balance
-What interest will I earn if I have a positive balance in my credit card?,Cc_interest_rate_positive_ balance
-What is the rate at which interest will be paid on a credit balance on my credit card?,Cc_interest_rate_positive_ balance
-Is there a benefit to having a positive balance in my credit card account?,Cc_interest_rate_positive_ balance
-Is there a benefit to saving in my credit card account?,Cc_interest_rate_positive_ balance
-Will I earn more interest on my credit card account than on my savings account?,Cc_interest_rate_positive_ balance
-What's the interest on a credit card?,cc_interest_rate
-How much interest?,cc_interest_rate
-How much is the interest?,cc_interest_rate
-How much is the interest rate charged?,cc_interest_rate
-How is the interest rate calculated?,cc_interest_rate
-How much is the interest rate?,cc_interest_rate
-What is an average interest rate on the credit card?,cc_interest_rate
-How much will the interest be?,cc_interest_rate
-What will the interest be?,cc_interest_rate
-How much interest will I pay?,cc_interest_rate
-What is the interest for credit card?,cc_interest_rate
-What is the interest rates of the credit card?,cc_interest_rate
-What is the highest interest rate that a client can pay?,cc_interest_rate
-Will there be an interest rate?,cc_interest_rate
-Is the card linked to an interest rate?,cc_interest_rate
-Does the card have an interest rate?,cc_interest_rate
-Is there interest?,cc_interest_rate
-Will I get a personalised interest rate?,cc_interest_rate
-"Will my interest rate
-increase if my balance increases?",cc_interest_rate_change
-Will my interest rate change?,cc_interest_rate_change
-Does my interest rate change?,cc_interest_rate_change
-Is interest linked to the bank rate?,cc_interest_rate_change
-Do you use the bank rate?,cc_interest_rate_change
-Can my interest rate change?,cc_interest_rate_change
-How does the interest rate change?,cc_interest_rate_change
-Will my interest rate always be the same?,cc_interest_rate_change
-When will my interest rate be changed?,cc_interest_rate_change
-Can my interest rate vary?,cc_interest_rate_change
-What causes the interest rate to be changed?,cc_interest_rate_change
-Why did my interest rate change?,cc_interest_rate_change
-Is the interest rate fixed?,cc_interest_rate_change
-Will the interest rate be fixed?,cc_interest_rate_change
-Fixed interest rate?,cc_interest_rate_change
-Will it have a fixed interest rate or not?,cc_interest_rate_change
-Will I get a notification when the rates change?,cc_interest_rate_change
-How will I know when the interest rate changes?,cc_interest_rate_change
-Do you inform me of rate changes?,cc_interest_rate_change
-Will you notify me when the interest rate changes?,cc_interest_rate_change
-How do I know if the rate changes?,cc_interest_rate_change
-Will you tell me if the rate changes?,cc_interest_rate_change
-Where can I find rate change information?,cc_interest_rate_change
-Where will I see my new interest rate?,cc_interest_rate_change
-How will I know what my interest rate is when it changes?,cc_interest_rate_change
-Are changes to the interest rate communicated to me?,cc_interest_rate_change
-What is my credit card interest rate?,cc_interest_rate_display
-Where can I find my credit card interest rate?,cc_interest_rate_display
-Is the interest rate shown on the statement?,cc_interest_rate_display
-Can I see what interest rate you charge online?,cc_interest_rate_display
-How do I find my interest rate?,cc_interest_rate_display
-Where can I see my interest rate?,cc_interest_rate_display
-What are your rates?,cc_interest_rate_display
-Where can I see the interest rates?,cc_interest_rate_display
-At what rates do you charge interest?,cc_interest_rate_display
-Do all transactions attract interest?,cc_interest_transaction_types
-Is there an interest free period?,cc_interest_transaction_types
-Do all transactions have an interest free period?,cc_interest_transaction_types
-Is interest charged on cash withdrawals?,cc_interest_transaction_types
-Will I always pay interest on my purchases?,cc_interest_transaction_types
-Are some transactions exempted from interest?,cc_interest_transaction_types
-If I repay the credit before the end of the month will I be charged with interest?,cc_interest_transaction_types
-Are there transactions that will not qualify for an interest free period?,cc_interest_transaction_types
-Does the card have an interest free period?,cc_interest_transaction_types
-Will there be a 55 days interest free period?,cc_interest_transaction_types
-What is the 55 days interest free period?,cc_interest_transaction_types
-How does the 55 days interest free period work?,cc_interest_transaction_types
-What is interest free period?,cc_interest_transaction_types
-What transactions do not qualify for interest free period?,cc_interest_transaction_types
-What is interest?,cc_interest_what_is
-What do I pay for borrowing money?,cc_interest_what_is
-Can you explain interest?,cc_interest_what_is
-How does interest work?,cc_interest_what_is
-Interest definition?,cc_interest_what_is
-What is the definition of interest?,cc_interest_what_is
-What is meant by interest?,cc_interest_what_is
-What does interest mean?,cc_interest_what_is
-What must I do if I lost my card or it was stolen?,cc_lost_card_action
-What must I do if I lost my card?,cc_lost_card_action
-What must I do if my card was stolen?,cc_lost_card_action
-What happens if I lost my card overseas?,cc_lost_card_action
-What happens if my card was stolen overseas?,cc_lost_card_action
-Who do I call if I lost my card?,cc_lost_card_action
-Who do I call if my card is missing?,cc_lost_card_action
-What happens if I cannot find my card?,cc_lost_card_action
-What do I do if I lose my card?,cc_lost_card_action
-How does one stop your credit card when you lose it?,cc_lost_card_action
-What happens if my card is stolen?,cc_lost_card_action
-What is the process when a card is stolen?,cc_lost_card_action
-My card is missing what do I do?,cc_lost_card_action
-My card was stolen what do I do?,cc_lost_card_action
-What can a client do when his card is lost or stolen?,cc_lost_card_action
-What is the max credit I can apply for?,cc_max_credit
-How much maximum credit can I have?,cc_max_credit
-How will I know my amount that I qualify for?,cc_max_credit
-How much can one qualify for?,cc_max_credit
-How do I know that I can afford to get a credit card?,cc_max_credit
-Is the line of credit fixed?,cc_max_credit
-What is the amount of credit a client can receive on their credit card?,cc_max_credit
-What is the maximum limit one can get for credit card?,cc_max_credit
-How will the limit of my credit card be determined?,cc_max_credit
-Why would I only receive a SMS for R100 only and not lower?,cc_notification_sms
-How will I know when a transaction was done on my credit card account?,cc_notification_sms
-Why did I not get a SMS notification for a transaction?,cc_notification_sms
-When will I get a SMS update?,cc_notification_sms
-Why was my SMS notification delayed on my credit card?,cc_notification_sms
-Do I need to register for SMS Update?,cc_notification_sms
-Will I automatically get a SMS for every transaction on my credit card?,cc_notification_sms
-Will I always get a SMS notification for a transaction on my credit card?,cc_notification_sms
-How many people are currently in possession of the credit card?,cc_off_topic_capitec_general
-Who are the members of the board at Capitec Bank?,cc_off_topic_capitec_general
-Is there going to be an interest rate increase?,cc_off_topic_capitec_general
-Do you have a loan account?,cc_off_topic_capitec_general
-Do you provide a savings account?,cc_off_topic_capitec_general
-Where is the nearest branch?,cc_off_topic_capitec_general
-Where should I bank?,cc_off_topic_capitec_general
-What is Capitec BEE status?,cc_off_topic_capitec_general
-How were the Capitec results?,cc_off_topic_capitec_general
-What is the Capitec share price?,cc_off_topic_capitec_general
-Do you have any job openings at Capitec Bank?,cc_off_topic_capitec_general
-What is the address?,cc_off_topic_capitec_general
-What is your phone number?,cc_off_topic_capitec_general
-What is a debit card?,cc_off_topic_capitec_general
-What is a multi loan?,cc_off_topic_capitec_general
-Can I save with Capitec?,cc_off_topic_capitec_general
-What is a debit card?,cc_off_topic_capitec_general
-Is this a debit card?,cc_off_topic_capitec_general
-Can I get a home loan?,cc_off_topic_capitec_general
-Does Capitec have home loans?,cc_off_topic_capitec_general
-What is the weather like?,cc_off_topic_totally
-Is it hot today?,cc_off_topic_totally
-How do I book travel?,cc_off_topic_totally
-Where should I have lunch?,cc_off_topic_totally
-What do you think of global warming?,cc_off_topic_totally
-Is Cape Town a nice city?,cc_off_topic_totally
-Where should I live?,cc_off_topic_totally
-Who won the rugby?,cc_off_topic_totally
-Who won the cricket?,cc_off_topic_totally
-Who is Nelson Mandela?,cc_off_topic_totally
-When is my payment date?,cc_payment_date
-When must I pay my credit card instalment?,cc_payment_date
-Can I change my payment date?,cc_payment_date
-Can I choose when to pay my credit card?,cc_payment_date
-Must I pay my credit card on my salary date?,cc_payment_date
-Where will I see my payment date?,cc_payment_date
-How will I know when to pay?,cc_payment_date
-Must I pay when I get my salary?,cc_payment_date
-Can I set my payment date to a date that suits me?,cc_payment_date
-Can I select on which day I would like to pay my credit card instalment?,cc_payment_date
-Why do I have to repay via debit order?,cc_payment_date_forced_DO
-Why must I repay via debit order?,cc_payment_date_forced_DO
-Why can I not choose my repayment method?,cc_payment_date_forced_DO
-Why can I not repay with EFT?,cc_payment_date_forced_DO
-Am I able to choose my repayment method?,cc_payment_date_forced_DO
-Why do I not have an option of repayment methods?,cc_payment_date_forced_DO
-How must I repay my credit card?,cc_payment_date_forced_DO
-Why are there different repayment methods for different clients?,cc_payment_date_forced_DO
-How will I know how much I need to pay each month and what my full outstanding amount will be?,cc_payment_how_much
-How would I know how much to repay?,cc_payment_how_much
-How much do I owe on my credit card?,cc_payment_how_much
-How much do I need to repay?,cc_payment_how_much
-"Should I pay everything at
-once?",cc_payment_how_much
-What is the amount I have to repay?,cc_payment_how_much
-Will you notify when and how much I must repay?,cc_payment_how_much
-What is my repayment?,cc_payment_how_much
-How can I pay my credit card account?,cc_payment_method
-Where can I pay my credit card account?,cc_payment_method
-What are my option for repaying my credit card account?,cc_payment_method
-Can I use the app to pay my credit card account?,cc_payment_method
-What payment methods do you support?,cc_payment_method
-Must I go to a branch to repay my credit card account?,cc_payment_method
-Can I pay my credit card account online?,cc_payment_method
-What if the branch is closed if I need to pay my credit card account?,cc_payment_method
-What is the minimum monthly payment?,cc_payment_minimum
-Why did I have to pay more than the 5% minimum payment that was due?,cc_payment_minimum
-Is my budget account included in the 5% minimum payment?,cc_payment_minimum
-Is the repayment for my budget account included in my payment due?,cc_payment_minimum
-How do I pay for credit insurance?,cc_payment_minimum
-When do I repay arrears?,cc_payment_minimum
-Is credit insurance included in my minimum amount?,cc_payment_minimum
-What is included in my minimum repayment amount?,cc_payment_minimum
-Is there a minimum payment threshold?,cc_payment_minimum_DO
-Why did a debit order not go through to pay my account?,cc_payment_minimum_DO
-Is there a minimum amount that will be deducted from my account?,cc_payment_minimum_DO
-What is the minimum amount for debit orders?,cc_payment_minimum_DO
-"My outstanding balance is small and was not collected, am I in arrears?",cc_payment_minimum_DO
-"You did not collect my instalment, how do I repay the outstanding amount?",cc_payment_minimum_DO
-What is minimum debit order collection amount?,cc_payment_minimum_DO
-What is the minimum amount that you will collect?,cc_payment_minimum_DO
-Can I choose how much I can pay each month?,cc_payment_options
-What are the different payment options?,cc_payment_options
-Are there different payment options?,cc_payment_options
-Will I be able to select any own payment option?,cc_payment_options
-Will I be able to select how much I can repay?,cc_payment_options
-What are my repayment options?,cc_payment_options
-Can I repay my full balance?,cc_payment_options
-Can I choose a specific repayment amount?,cc_payment_options
-What is the CVC?,cc_phisycal_cvc
-What is the CVV?,cc_phisycal_cvc
-Where do I find my CVV?,cc_phisycal_cvc
-Where do I find my CVC?,cc_phisycal_cvc
-What is my 3-digit security code?,cc_phisycal_cvc
-Where is my 3-digit security code?,cc_phisycal_cvc
-What can I use my CVV or CVC code for?,cc_phisycal_cvc
-Why is the CVV or CVC code important?,cc_phisycal_cvc
-Why does my card still have a magnetic stripe?,cc_phisycal_mag_stripe
-Why does my card still have a magnetic stripe and a chip?,cc_phisycal_mag_stripe
-Does my card?s magstripe work?,cc_phisycal_mag_stripe
-Can I swipe my card at a merchant?,cc_phisycal_mag_stripe
-Why does my magstripe not work?,cc_phisycal_mag_stripe
-Why does my chip not work?,cc_phisycal_mag_stripe
-Can the magstripe on my card be used?,cc_phisycal_mag_stripe
-Does my card work in a country where they do not have chip and PIN?,cc_phisycal_mag_stripe
-Why is the card not embossed?,cc_phisycal_look_and_feel
-Why does our card not have raised numbers?,cc_phisycal_look_and_feel
-Why does my credit card have a flat surface?,cc_phisycal_look_and_feel
-Is a credit card with raised numbers different to my Capitec Bank credit card?,cc_phisycal_look_and_feel
-Will my credit card be accepted if it does not have raised numbers?,cc_phisycal_look_and_feel
-Will my credit card be accepted if it is not embossed?,cc_phisycal_look_and_feel
-Will it be a problem if my card is not embossed?,cc_phisycal_look_and_feel
-Will it be a problem if my card does not have raised numbers?,cc_phisycal_look_and_feel
-Will administration clients be helped?,cc_qualification_administration
-If I'm under debt administration will I qualify?,cc_qualification_administration
-Can I qualify for a credit card if I applied for administration?,cc_qualification_administration
-If I'm under debt counselling will I qualify?,cc_qualification_administration
-If I'm under debt management will I qualify for a credit card?,cc_qualification_administration
-Will clients under debt counselling qualify for a credit card?,cc_qualification_administration
-Will clients under debt management qualify?,cc_qualification_administration
-Will clients under debt administration qualify for a credit card?,cc_qualification_administration
-Will clients under debt review qualify?,cc_qualification_administration
-Will a black listed client or a client under administration qualify for a credit card?,cc_qualification_administration
-Can someone who is blacklisted apply?,cc_qualification_administration
-What if I am blacklisted?,cc_qualification_administration
-Does a client who is blacklisted qualify?,cc_qualification_administration
-Will a client from Namibia be able to get a credit card?,cc_qualification_foreign_national
-Do foreign nationals qualify for the credit card?,cc_qualification_foreign_national
-Do foreign nationals qualify for it?,cc_qualification_foreign_national
-Will people from other nationalities qualify for a credit card?,cc_qualification_foreign_national
-Will clients from other countries be qualify?,cc_qualification_foreign_national
-Will a client from Botswana be able to get a credit card?,cc_qualification_foreign_national
-Will a client from Zimbabwe be able to get a credit card?,cc_qualification_foreign_national
-Will a client from Zambia qualify for a credit card?,cc_qualification_foreign_national
-Who can qualify for a credit card?,cc_qualification_general
-How can I qualify?,cc_qualification_general
-Will I need to apply for the card?,cc_qualification_general
-What is the requirements for a person to get a credit card?,cc_qualification_general
-Who can get a credit card?,cc_qualification_general
-Can a non-capitec client get the credit card?,cc_qualification_general
-What are the minimum requirements for me to get a credit card?,cc_qualification_general
-How do I qualify for a credit card?,cc_qualification_general
-How do you qualify for a credit card?,cc_qualification_general
-How much do u need to be earning to qualify for this credit card?,cc_qualification_general
-What is minimum salary to qualify for credit card?,cc_qualification_general
-Who qualifies for a credit card?,cc_qualification_general
-Who qualifies to have the credit card?,cc_qualification_general
-Which type of clients qualify for this?,cc_qualification_general
-What are the minimum requirements?,cc_qualification_general
-How do I qualify for the card?,cc_qualification_general
-Who qualifies for a credit card?,cc_qualification_general
-What do you need to qualify for the card?,cc_qualification_general
-Who gets the card?,cc_qualification_general
-Who qualifies for it?,cc_qualification_general
-What should your salary frequency be?,cc_qualification_general
-Can I qualify with a weekly salary?,cc_qualification_general
-Can I qualify with a fortnightly salary?,cc_qualification_general
-I receive a government pension. Can I apply for a credit card?,cc_qualification_salary
-I receive a government grant. Can I apply for a credit card?,cc_qualification_salary
-I receive a pension. Can I apply for a credit card?,cc_qualification_salary
-I am a pensioner. Can I apply for a credit card?,cc_qualification_salary
-Can a SASSA client apply for a credit card?,cc_qualification_salary
-"I am retired, can I apply for a credit card?",cc_qualification_salary
-"I am not working, can I get a credit card?",cc_qualification_salary
-Can a pensioner get a credit card?,cc_qualification_salary
-Is there a waiting period for reversals?,cc_reversals
-How long does it take for a reversal on my credit card to be processed?,cc_reversals
-When will a reversal be processed on my credit card?,cc_reversals
-What if my transaction was unsuccessful but the money was deducted from my account?,cc_reversals
-"My purchase was declined but the money came off my account, what happened?",cc_reversals
-What happens if my purchase was declined and I received an SMS for the purchase?,cc_reversals
-Will my failed transaction be reversed?,cc_reversals
-When will my declined transaction be reversed?,cc_reversals
-Can I get any frequent flyer miles?,Cc_rewards
-Will I get any points when I swipe my credit card?,Cc_rewards
-Can I get any rewards?,Cc_rewards
-Do I get money back when I use my card?,Cc_rewards
-Do I get eBucks?,Cc_rewards
-Do you have a loyalty programme?,Cc_rewards
-Why is there no rewards scheme?,Cc_rewards
-Why is there no loyalty programme?,Cc_rewards
-What is the chip?,cc_safety_chip_what
-Why does my card have a chip?,cc_safety_chip_what
-Will my card have a chip?,cc_safety_chip_what
-Is a chip card safe?,cc_safety_chip_what
-Where is the chip on my card?,cc_safety_chip_what
-What does a chip card offer me?,cc_safety_chip_what
-What is the purpose of the chip on my credit card?,cc_safety_chip_what
-How is my card read?,cc_safety_chip_what
-How do I protect myself from fraud while using the card?,cc_safety_fraud_prevent
-What can I do to protect myself from fraud while using the card?,cc_safety_fraud_prevent
-How do I keep my credit card safe?,cc_safety_fraud_prevent
-How do I prevent fraud on my credit card?,cc_safety_fraud_prevent
-What safety measures can I take to protect my credit card?,cc_safety_fraud_prevent
-How do I avoid becoming a victim of fraud?,cc_safety_fraud_prevent
-What can I do to stop fraud on my credit card?,cc_safety_fraud_prevent
-How can I stop people from stealing my money?,cc_safety_fraud_prevent
-When must I change my PIN?,cc_safety_pin_change
-Can I change my PIN?,cc_safety_pin_change
-Will I pay a fee to change my PIN?,cc_safety_pin_change
-Can I change my PIN on the app?,cc_safety_pin_change
-Can I change my PIN on the internet?,cc_safety_pin_change
-Can I change my PIN at the ATM?,cc_safety_pin_change
-Can I change my PIN over the phone?,cc_safety_pin_change
-Can someone collect my PIN in the branch?,cc_safety_pin_change
-What must I do if I forget my PIN?,cc_safety_pin_reset
-What is the fee to reset my PIN?,cc_safety_pin_reset
-Will I be charged if I reset my PIN?,cc_safety_pin_reset
-What will it cost to change my forgotten PIN?,cc_safety_pin_reset
-What must I do if I lost my PIN?,cc_safety_pin_reset
-Where do I get a new PIN?,cc_safety_pin_reset
-"I can?t remember my PIN, what now?",cc_safety_pin_reset
-Do I need a new card if I forgot my PIN?,cc_safety_pin_reset
-What does available to spend on statement mean?,cc_statement_available_balance
-What is available to spend on statement?,cc_statement_available_balance
-How much do I have left to spend?,cc_statement_available_balance
-What amount is available on statement date?,cc_statement_available_balance
-Where can I get another copy of my Credit card statement?,cc_statement_copy
-Do I pay for my credit card statement?,cc_statement_copy
-Can I get a copy of my credit card statement?,cc_statement_copy
-"I deleted my emailed credit card statement, where do I get a new statement?",cc_statement_copy
-Do you provide copies of credit card statements?,cc_statement_copy
-Can I get a credit card statement at any time?,cc_statement_copy
-Where can I get my credit card statement?,cc_statement_copy
-"Can I print a credit card statement at an ATM, the app or online?",cc_statement_copy
-What must I do when I get my credit card statement?,cc_statement_receive_action
-Why do I get a statement?,cc_statement_receive_action
-What must I do with my credit card statement?,cc_statement_receive_action
-What if there are unauthorised transactions on my credit card statement?,cc_statement_receive_action
-How do I check my credit card statement?,cc_statement_receive_action
-Must I confirm the transactions on my statement?,cc_statement_receive_action
-What must I do if there is something wrong on my credit card statement?,cc_statement_receive_action
-What must I do if there are discrepancies on my credit card statement?,cc_statement_receive_action
-Where can I get my credit card statement?,cc_statement_receive_how
-Where can I get a monthly statement?,cc_statement_receive_how
-Where can I get a transaction history?,cc_statement_receive_how
-How will I receive my credit card statements?,cc_statement_receive_how
-What are the options for delivery of my credit card statement?,cc_statement_receive_how
-Can you post my statement?,cc_statement_receive_how
-Can I get my statement emailed to me?,cc_statement_receive_how
-Will I be able to get my statement emailed to me?,cc_statement_receive_how
-What account type do I select to do transfers and deposits on a Capitec Bank ATM with a Capitec Bank credit card?,cc_transact_ATM
-How do I transfer to my credit card at the ATM?,cc_transact_ATM
-How do I transfer from my credit card at the ATM?,cc_transact_ATM
-What account type do I select on a Capitec Bank ATM?,cc_transact_ATM
-How do I make a deposit into my credit card at the ATM?,cc_transact_ATM
-Why is my credit card account not showing at the ATM?,cc_transact_ATM
-Why am I asked for Credit or Savings at the ATM?,cc_transact_ATM
-How do I access my credit card account at an ATM?,cc_transact_ATM
-How do I withdraw money at the ATM using my credit card?,cc_transact_ATM
-What is the minimum amount I can purchase?,Cc_transact_min_amount
-Will my credit card get declined when I want to purchase for small amounts?,Cc_transact_min_amount
-What is the minimum amount I can swipe for?,Cc_transact_min_amount
-Is there a minimum amount I can swipe for?,Cc_transact_min_amount
-What is the minimum transaction amount allowed?,Cc_transact_min_amount
-Is there a minimum transaction amount?,Cc_transact_min_amount
-Can I do a transaction for a low amount on my card?,Cc_transact_min_amount
-What is the smallest amount I can swipe for?,Cc_transact_min_amount
-Is it possible to buy airtime with my credit card?,cc_transaction_air_time_elec
-Can I buy vouchers with my credit card?,cc_transaction_air_time_elec
-Can one buy airtime and prepaid electricity using the credit card?,cc_transaction_air_time_elec
-Can a client buy prepaid?,cc_transaction_air_time_elec
-Can I buy prepaid with the credit card?,cc_transaction_air_time_elec
-Can a client buy data with the card?,cc_transaction_air_time_elec
-Can a client buy airtime with the credit card?,cc_transaction_air_time_elec
-Can I buy prepaid electricity using my credit card?,cc_transaction_air_time_elec
-Will the credit card be accepted for airtime or data purchases?,cc_transaction_air_time_elec
-Why does the transaction amounts differ when using the credit card internationally?,cc_transaction_international
-Why does my transaction amounts differ when using the credit card overseas?,cc_transaction_international
-What exchange rate is used when I shop overseas?,cc_transaction_international
-What exchange rate is used when I buy overseas?,cc_transaction_international
-What exchange rate is used when I buy internationally?,cc_transaction_international
-Why is the transaction amount on my SMS different to my statement?,cc_transaction_international
-Why did you debit me for a different amount than on my SMS?,cc_transaction_international
-Why is there a difference  between my SMS amount and statement amount for an international transaction?,cc_transaction_international
-Can I transfer the credit to my savings?,cc_transaction_transfer
-Can I move money from my credit card account to my savings?,cc_transaction_transfer
-Can a client move money from his credit card to his savings account?,cc_transaction_transfer
-If a client transfer money from a credit card to his savings account will he pay interest?,cc_transaction_transfer
-What will the interest be when a client will transfer money from the credit card to their savings account?,cc_transaction_transfer
-Can I transfer from my credit card to my savings account?,cc_transaction_transfer
-Can I transfer from my credit card to my global one account?,cc_transaction_transfer
-Will I pay for a transfer from my credit card to my savings account?,cc_transaction_transfer
-Is there a fee for transferring money from my credit card to my savings account?,cc_transaction_transfer
-What is the difference between the credit card and credit facility?,cc_vs_credit_facility
-Is there a difference between a facility and a credit card?,cc_vs_credit_facility
-How will a credit card work different from a facility?,cc_vs_credit_facility
-What is the advantages of a credit card versus a credit facility?,cc_vs_credit_facility
-Can I get more credit on a credit card compared to a facility?,cc_vs_credit_facility
-Will a client get more credit on a card compared to a facility?,cc_vs_credit_facility
-Will the repayment on a credit card work the same way as a facility?,cc_vs_credit_facility
-Will the credit facility still be available with the introduction of the credit card?,cc_vs_credit_facility
+"Does the Natural Language Classifier train using all of the data, or does it partition it in some way?",all_training_data_used
+What kind of preprocessing does the classifier perform on its input?,all_training_data_used
+"Does the classifier train using all of the data, or does it partition it in some way?",all_training_data_used
+does the classifier train on all the data or does it hold some out?,all_training_data_used
+does nlclassifier perform random sampling to the training datasets?,all_training_data_used
+Where can I find documentation on the Natural Language Classifier API?,api_documentation
+Where can I find the API documentation?,api_documentation
+What is the API for the Classifier?,api_documentation
+Where can I find documentation on the NL classifier API?,api_documentation
+Where can I find REST API documentation for the NL classifier?,api_documentation
+Where can I view documentation for the classifier API?,api_documentation
+How do I access the classifier API?,api_documentation
+How many instances of the Natural Language Classifier can I create and what does it cost?,billing_and_usage
+How will classifier usage be priced after GA?,billing_and_usage
+How much does it cost to use the Classifier?,billing_and_usage
+How much does it cost?,billing_and_usage
+How much does it cost?,billing_and_usage
+How many classifiers can I train simultaneously?,billing_and_usage
+Is there a limit to the number of classifiers I can create?,billing_and_usage
+What OS does the Natural Language Classifier use and how does it relate to IBM Bluemix?,bluemix_hosted
+What do I do if I want to use the Classifier but I am not building a BlueMix application?,bluemix_hosted
+Is the NL Classifier a bluemix only service?,bluemix_hosted
+Is the NLClassifier available as a Bluemix service?,bluemix_hosted
+What does the NLClassifier have to do with BlueMix?,bluemix_hosted
+Does the NL Classifier run on multiple OS platforms,bluemix_hosted
+How is the NL Classifier deployed in WCTS,bluemix_hosted
+Is this a multi-tenant service?,bluemix_multi_tenant
+Can I choose from different algorithms or request changes to the existing ones?,choose_or_change_algorithm
+Can I choose my own learning algorithm from a list of algorithms offered by this service?,choose_or_change_algorithm
+Can a client request a change in the underlying algorithm ?,choose_or_change_algorithm
+What are the competitors to the Natural Language Classifier and how is it differentiated?,classifier_competitors
+How is Watson NL Classifier different from Google's?,classifier_competitors
+How is the classifier different from the competition?,classifier_competitors
+Has the service been compared to other services which exist in the market ?,classifier_competitors
+What are known competitors to the NLClassifier?,classifier_competitors
+Are there similar products in the market?,classifier_competitors
+What makes it unique?,classifier_competitors
+What differentiates the NLClassifier from its competition?,classifier_competitors
+Is IBM's Classifier better than LUIS?,classifier_competitors
+Where can I find documentation on the Natural Language Classifier service?,classifier_documentation
+Where can I find documentation on the classifier service?,classifier_documentation
+Does the Natural Language Classifier support a combination of NL and rule-based matching techniques currently?,classifier_not_rule_based
+Does the NL classifier support a combination of NL and rule-based matching techniques currently?,classifier_not_rule_based
+Does the Natural Language Classifier service return answer(s) above a certain confidence threshold?,confidence_threshold
+Is it possible to request more than 10 answers from the classifier?,confidence_threshold
+Does the classifier service return answer(s) above a certain confidence threshold?,confidence_threshold
+Who do I contact for issues with Natural Language Classifier?,contact_support
+What kind of support is offered for users of the NLClassifier service?,contact_support
+Is there user support available for the NLClassifier service?,contact_support
+"What did I do wrong, the NL Classifier won't work",contact_support
+Who do I contact for issues with NL Classifier,contact_support
+Why is the NL Classifier not working for me,contact_support
+How do I submit a defect for the NL Classifier,contact_support
+How do I get help with the service?,contact_support
+What happens if the service goes down?,contact_support
+Can I find out who else is using the service so we can help each other?,contact_support
+What is the expected up time for the service once it's created?,contact_support
+What should I do when I have problems with the NLClassifier?,contact_support
+How will users provide positive or negative feedback on the service?,contact_support
+I wonder what would happen if your customers complained even more?,contact_support
+Do I need to worry about cross domain scripting issues using JS to call the service end points,contact_support
+What are the drawbacks of using NLClassifier?,contact_support
+How do I deploy the Natural Language Classifier service?,deployed_in_bluemix
+How is the NL Classifier deployed in development and test environments,deployed_in_bluemix
+How do I install the NLClassifier?,deployed_in_bluemix
+Can I use NLClassifier on the cloud?,deployed_in_bluemix
+What is a good use case for the Natural Language Classifier service?,example_use_cases
+What is the NLClassifier service used for?,example_use_cases
+In what ways would I use the classifier service to build a cognitive application,example_use_cases
+What is the classifier good for?,example_use_cases
+What can my app do with the response from the classifier?,example_use_cases
+What are the generic use cases for NL Classifier?,example_use_cases
+What is an example of a use case for the NL Classifier service?,example_use_cases
+What is the NL Classifier for?,example_use_cases
+What can I do with the NLClassifier?,example_use_cases
+What kind of problem can I solve with NLClassifier?,example_use_cases
+What can NLClassifier help me do?,example_use_cases
+Can the NLClassifier classify tweets?,example_use_cases
+Can I use the NLClassifier service to classify Twitter data?,example_use_cases
+Can the NLClassifier classify FB posts?,example_use_cases
+What's a good example of things that can be classified by this service?,example_use_cases
+What can I classify?,example_use_cases
+What is a good use case for this service?,example_use_cases
+What is a good use case for the NL classifier service?,example_use_cases
+What is the main use for the ML Classifier,example_use_cases
+"Are there atleast 3 use cases which have been provided, which walk a potential client through the different stages of usage",example_use_cases
+Is there a way for me to extend the capabilities of the Natural Language Classifier?,extend_classifier
+"As a developer, is there a way for me to extend the capabilities of the NL Classifier?",extend_classifier
+How extensible is the NL Classifier?,extend_classifier
+How accurate is the Natural Language Classifier and have there been any experiments or test results to share to prove it?,how_accurate
+How good is your classification?,how_accurate
+How accurate is the NLClassifier service?,how_accurate
+How accurate is your classification?,how_accurate
+How accurate is the Classifier?,how_accurate
+How well does the Classifier work?,how_accurate
+What is the performance of the NL Classifier,how_accurate
+Have there been systematic experiments which compare the performance of the service on different datasets,how_accurate
+Are there any tests conducted which measure performance on TREC data / other benchmarks ?,how_accurate
+What's the current precision & recall during training and testing ?,how_accurate
+Is the classifier service really better than just doing a lucene search?,how_accurate
+What accuracy should I expect from the service?,how_accurate
+how accurate are you usually,how_accurate
+how good are you at your job as a classifier?,how_accurate
+How good is the NL Classifier?,how_accurate
+How does the Natural Language Classifier work?,how_classifier_works
+What algorithms does the NL classifier use?,how_classifier_works
+What algorithms does the classifier implement?,how_classifier_works
+What kind of machine learning techniques are used in the classifier service?,how_classifier_works
+What are the underlying technologies exploited by the NL Classifier?,how_classifier_works
+What technology does the classifier service use?,how_classifier_works
+What technology does the classifier service use?,how_classifier_works
+What novel technology is used in the NLClassifier?,how_classifier_works
+What kind of technology does the NL Classifier employ?,how_classifier_works
+How does it work?,how_classifier_works
+How does the Classifier work?,how_classifier_works
+How does the classifier classify,how_classifier_works
+How does the NL Classifier work?,how_classifier_works
+How does the NL Classifier classify text?,how_classifier_works
+What does the classifier classify,how_classifier_works
+what kinds of things do you classify?,how_classifier_works
+what does the classifier classify?,how_classifier_works
+What kind of data can I use the Natural Language Classifier on?,how_classifier_works
+What kind of data can I use the classifier on?,how_classifier_works
+What does the NLClassifier classify?,how_classifier_works
+"In what types of ""classes"" does the NL Classifier classify text?",how_classifier_works
+What is being classified?,how_classifier_works
+What can you classify,how_classifier_works
+what does NLClassifier classify?,how_classifier_works
+How do you measure the quality of the Natural Language Classifier?,how_to_measure_quality
+How do you measure the quality of the NLClassifier?,how_to_measure_quality
+How do you measure the accuracy of the NLClassifier?,how_to_measure_quality
+How do I register for this Natural Language Classifier service?,how_to_register
+Who is authorized to use the NL Classifier service ?,how_to_register
+How do I register for this NL Classifier service?,how_to_register
+How can a partner use NL Classifier Service,how_to_register
+How old must I be to use the NLClassifier?,how_to_register
+Why is it so hard to get credentials?,how_to_register
+How can I retrain and update the model for an existing Natural Language Classifier?,how_to_retrain
+How can I retrain and update the model for an existing classifier?,how_to_retrain
+How can I add new question and answer pairs to the ground truth?,how_to_retrain
+How do I train a Natural Language Classifier?,how_to_train
+Can I choose my own identifiers?,how_to_train
+How do I provide ground truth?,how_to_train
+What kind of inputs does the classifier accept?,how_to_train
+What is the format for JSON input ?,how_to_train
+How do I train it?,how_to_train
+How do I train a classifier?,how_to_train
+How is the classifier trained ?,how_to_train
+What format of the training data does the NLClassifier expect?,how_to_train
+What are the standard inputs to the NL Classifier,how_to_train
+How are the classification buckets defined and registered?,how_to_train
+How was ground truth obtained for training the model?,how_to_train
+What are we classifying based on?,how_to_train
+What is the best way to feed data into the NLClassifier?,how_to_train
+Is a corpus required to use the classifier service?,how_to_train
+Is a classifier trained against question and answer pairs or content ?,how_to_train
+"What type of resources can user provide? (stopwords, synonyms, etc.)",how_to_train
+Do you have any tips for creating the flat file for the classifier?,how_to_train
+When will the Classifier service let you upload a background corpus for word embedding?,how_to_train
+How was the classifier trained?,how_to_train
+How was the NL Classifier trained?,how_to_train
+How do I map intents to answers?,how_to_train
+How do I use the Natural Language Classifier?,how_to_use
+How can I use the NLClassifier service?,how_to_use
+How do I use the NLClassifier?,how_to_use
+How do I use the classifier?,how_to_use
+How can I use your classifier?,how_to_use
+How do I get started with the NLClassifier?,how_to_use
+How do I use the NLClassifier?,how_to_use
+Who should I speak to about using the NL Classifier,how_to_use
+How do I call the classifier from my project?,how_to_use
+How would I use this,how_to_use
+How do I get the output from the NLClassifier?,how_to_use
+How do I use it?,how_to_use
+Is there sample code that uses a Natural Language Classifier?,how_to_use
+What do I need to do in order to use the NL Classifier,how_to_use
+Is there any sample code for building a bluemix service that exploits the NL Classifier?,how_to_use
+Where can I learn how to use the NLClassifier?,how_to_use
+Show me an example of the NLClassifier in action,how_to_use
+Where can I learn about how the classifier service works and how it can help me as a developer?,how_to_use
+What kind of examples should I use for training the NLClassifier?,how_to_use
+Can I see some sample input data?,how_to_use
+Can you show me an example of how to map a Key to a set of question in a flat file?,how_to_use
+Does the Natural Language Classifier improve with use?,improving_classifier
+Does it learn by itself?,improving_classifier
+Can it learn on the job?,improving_classifier
+Does the classifier improve with use?,improving_classifier
+How does the classifier service enable Watson to learn automatically?,improving_classifier
+Is there a mechanism for continuous feedback to allow the classifier to improve itself at runtime?,improving_classifier
+"If the Natural Language Classifier isn't giving the answers I expect, what do I do?",improving_performance
+How can I troubleshoot incorrect answers?,improving_performance
+"If the classifier isn't giving the answers I expect, what do I do?",improving_performance
+How do I debug the service once it's created?,improving_performance
+What other services should I use and how do I integrate them?,integrate_other_services
+How do I integrate the NL Classifier with my other services,integrate_other_services
+How do I integrate the classifier with other services?,integrate_other_services
+What other services should I use with the classifer for the best results?,integrate_other_services
+What are the known problems with the Natural Language Classifier?,known_problems
+Does the NL Classifier service introduce any security issues?,known_problems
+Are there specific areas or issues to be aware of when using the NL Classifier,known_problems
+Does the NL Classifier have limitations I should know about,known_problems
+What are the known problems with NLClassifier?,known_problems
+What kinds of natural language does the NLClassifier have problems with?,known_problems
+Does the Natural Language Classifier work on languages other than english?,languages_supported
+Does the classifier work on languages other than english,languages_supported
+Does the classifier only work for English?,languages_supported
+What languages are supported?,languages_supported
+Does the classifier service support languages other than English?,languages_supported
+Does NLClassifier support Japanese language ?,languages_supported
+Can NLClassifier handle multiple language ?,languages_supported
+What input languages does the NL classifier understand?,languages_supported
+how many languages the the classifer support,languages_supported
+How many languages does NLClassifier support?,languages_supported
+Does the NL classifier offer multi-lingual support?,languages_supported
+Does the classifier support languages other than English?,languages_supported
+What languages does the NL Classifier support?,languages_supported
+What languages does the classifier handle? English only?,languages_supported
+Can I use the NLClassifier if I don't speak English?,languages_supported
+What languages does the NLClassifier support?,languages_supported
+What languages does the classifier support?,languages_supported
+Can the NLClassifier cope with right-to-left writing?,languages_supported
+Can the NLClassifier process logographic writing?,languages_supported
+which language is used,languages_supported
+Does the NL Classifier service perform translation?,languages_supported
+How many words can not match and still have a question match an existing group?,matching_words_in_question_and_class
+"How does the Natural Language Classifier handle misspelled words, bad grammar, improper case, and extra spaces?",misspelling_bad_grammar
+Can the classifier handle misspelling,misspelling_bad_grammar
+How does the classifier handle mispelllled wrds?,misspelling_bad_grammar
+"Does CaSe, grammar bad, question marks or  double  spaces  effect the quality of the classifier?",misspelling_bad_grammar
+What models does the Natural Language Classifier use and can I use my own?,model_used_in_classification
+Does NLClassifier allow for combination of multiple models?,model_used_in_classification
+What models does the classifier use for classification?,model_used_in_classification
+Can I upload my own classifier model to the NLClassifier service?,model_used_in_classification
+How do I create my own custom models?,model_used_in_classification
+How many classification models are available?,model_used_in_classification
+Is two Natural Language Classifiers with smaller training sets better than having one with a bigger training set?,more_samples_produce_better_models
+Why are large training sets better then small ones.,more_samples_produce_better_models
+Is two classifiers with smaller training sets better than having one with a bigger training set?,more_samples_produce_better_models
+Can the user provide his own feature generators?,nlp_features_used
+What NLP features does the classifier use?,nlp_features_used
+What attributes does nl-classifier use for the classification?,nlp_features_used
+What kinds of features are used as signals for classification?,nlp_features_used
+Roughly how many features are the classification models trained over?,nlp_features_used
+Is there an automatic synonym substitution applied to an incoming question to automatically expand it for variations?,nlp_features_used
+How many question variations are required in each class for good accuracy?,optimum_number_training_classes
+How many questions do I need for NL classifier training ?,optimum_number_training_classes
+How much ground truth do you need to achieve a reasonable level of accuracy?,optimum_number_training_classes
+How many examples do I need to train the Natural Language Classifier service?,optimum_number_training_classes
+How many examples do I need to train the NLClassifier service?,optimum_number_training_classes
+How many questions do I need in order to train a classifier?,optimum_number_training_classes
+How much training data do I need?,optimum_number_training_classes
+How much training data do I need?,optimum_number_training_classes
+what is the typical number of categories in nlclassifier ?,optimum_number_training_classes
+How many training instances does nl-classifier need to produce a good classification ?,optimum_number_training_classes
+What is a good ratio of questions to classes in the training data,optimum_number_training_classes
+How many QA pairs do I need to train a classifier?,optimum_number_training_classes
+How much ground truth does it take to train the NLClassifier?,optimum_number_training_classes
+How many good sample questions does the NLClassifier need?,optimum_number_training_classes
+how is  the generalization of the Natural Language Classifier calculated?,overfitting_regularization
+Does NLClassifier evaluate the generalization for my training dataset?,overfitting_regularization
+how is  the generalization of nl-classifier calculated ?,overfitting_regularization
+Does nl-classifer provide the  generalization performance measure /,overfitting_regularization
+How does generalization work?,overfitting_regularization
+Can the Natural Language Classifier identify similar or related classes?,related_or_similar_classes
+Can the classifier identify similar or related classes?,related_or_similar_classes
+What is the output of a request to the Natural Language Classifier?,response_to_classify
+How do I get it to answer a question?,response_to_classify
+What can we expect NL Classifier will return ?,response_to_classify
+What is the output of a request to the NL Classifier ?,response_to_classify
+Does the classifier service API return a ranked list of candidate answers?,response_to_classify
+What is the output of the NL Classifier,response_to_classify
+What is the classifier going to give me back as a response?,response_to_classify
+How do I understand the output from the NLClassifier?,response_to_classify
+Do you rank the matches to a question?,response_to_classify
+Can I classify more than one question at a time?,response_to_classify
+Does the Natural Language Classifier give the same answer every time?,same_answer_every_time
+Does a classifier give the same answer every time?,same_answer_every_time
+Why do I get different results when I train the classifier twice on the same data?,same_answer_every_time
+Why does the Natural Language Classifier return intents instead of answers?,short_text_classifier
+Can the classifier classify documents?,short_text_classifier
+Why does the classifier return intents instead of answers?,short_text_classifier
+How is NLClassifier different from WEA?,short_text_classifier
+How does the classifier service differ from the question and answer service?,short_text_classifier
+How does this compare with WEA?,short_text_classifier
+How do I load my documents into the NLClassifier?,short_text_classifier
+Does the Natural Language Classifier work on structured data?,structured_data
+Do you classify questions or answers?,structured_data
+Does the classifier work on unstructured data,structured_data
+Does the classifier work on structured data,structured_data
+How long does it take for Natural Language Classifier to answer the question?,time_to_classify_question
+How long does it take for NL classifier to answer the question ?,time_to_classify_question
+How long does it take to classify an instance?,time_to_classify_question
+How does the speed of classifying an instance depend on the number of classes?,time_to_classify_question
+How long does a classifier take to classify something?,time_to_classify_question
+What is the average response time of the classifer?,time_to_classify_question
+How does the time taken to compute the match scale with the number of exemplars?,time_to_classify_question
+How long does it take to train a Natural Language Classifier?,time_to_train
+How long does it take to train a classifier?,time_to_train
+How long does it take to train?,time_to_train
+How long does it take to create a classifier?,time_to_train
+How long does it take to train a model?,time_to_train
+How long does training take?,time_to_train
+How long does it take to set up the NLClassifier?,time_to_train
+How long does it take to train a model?,time_to_train
+What is the limit on the number of classes I can use to train the Natural Language Classifier?,training_class_limit
+"How does the algorithm scale in time, i.e. is there a limit to the number of questions that can be classified efficiently?",training_class_limit
+How well does it scale?,training_class_limit
+Does the classifier scale to very large corpora?,training_class_limit
+How much training data can I use?,training_class_limit
+Is there a limit to how much training data I can use?,training_class_limit
+Are there limits to how big or small the training data can be?,training_class_limit
+How many training instances can the Classifier support?,training_class_limit
+How many classes can it support?,training_class_limit
+How many classifications are possible with one classifier model ?,training_class_limit
+How many things can the NLClassifier classify?,training_class_limit
+Is there a maximum allowable number of classes?,training_class_limit
+Is there a limit to the number of classes I can have?,training_class_limit
+What is the maximum number of training instances this service can handle?,training_class_limit
+What's the most amount of classes I should have in the classifier?,training_class_limit
+What is the maximum size of the train data that NL Classifier can handle?,training_class_limit
+What types of questions can be classified by the Natural Language Classifier?,types_of_data_classified
+Are there certain topics with which the NL Classifier works better?,types_of_data_classified
+Does the NLClassifier answer questions?,types_of_data_classified
+What types of questions can be classified by the NL Classifier,types_of_data_classified
+What kinds of questions can I ask the classifier?,types_of_data_classified
+How robust is the service as you test across different domains,types_of_data_classified
+Which domains will the NL Classifier work with?,types_of_data_classified
+What is the Natural Language Classifier service?,what_classifier_does
+What is the NL Classifier service?,what_classifier_does
+What does NLClassifier do?,what_classifier_does
+What does a classifier do?,what_classifier_does
+"What is a ""classifier""?",what_classifier_does
+What is the NLClassifier?,what_classifier_does
+What is the NL Classifier service?,what_classifier_does
+What is the NLClassifier?,what_classifier_does
+What in the world is an NL Classifier,what_classifier_does
+What does the NL Classifier do?,what_classifier_does
+What is the NLClassifier?,what_classifier_does
+What is the watson classifier service?,what_classifier_does
+What is the NL Classifier?,what_classifier_does
+What is the NLClassifier?,what_classifier_does
+What is NL classifier,what_classifier_does
+What does NLClassifier stand for?,what_classifier_does
+What is the NL Classifier service?,what_classifier_does
+What is NL Classifier?,what_classifier_does
+What is it?,what_classifier_does
+What does it do?,what_classifier_does
+what does NLClassifier do?,what_classifier_does
+How can NL classifier service help customers ?,what_classifier_does
+What does NL stand for?,what_does_nl_stand_for
+Why do I want to use the Natural Language Classifier?,why_use_classifier
+Why would I want to use the NL Classifier service  in my app?,why_use_classifier
+What benefit will I get from using the NL Classifier service?,why_use_classifier
+What value does the classifier service bring,why_use_classifier
+Why do I need a Natural Language Classifier?,why_use_classifier
+What are the benefits of the NLClassifier?,why_use_classifier
+Why do I want to use NL Classifier?,why_use_classifier

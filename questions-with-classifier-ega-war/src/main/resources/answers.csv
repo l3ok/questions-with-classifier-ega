@@ -1,109 +1,45 @@
-cc_acceptance_car_rental,Can I use my Credit card at Car rental companies?
-cc_acceptance_cash_withdrawal,Can I draw cash in a branch?
-cc_acceptance_cashback,What is a purchase with cashback?
-cc_acceptance_cnp,How do I register for CNP?
-cc_acceptance_cnp_what,What is CNP?
-cc_acceptance_cnp_wallets,Can I use my credit card in 3rd party payment applications and wallets?
-cc_acceptance_ecommerce,What are e-commerce transactions?
-cc_acceptance_global,Can I use the credit card all over the world?
-cc_acceptance_mobile_pmt_app,Why can the card not be scanned in mobile payment apps?
-cc_acceptance_moto,What are MOTO transactions?
-cc_acceptance_recurring_payments,What is a recurring payment?
-cc_acceptance_transaction_type,What type of transactions can I do?
-cc_account_single_card,Can I access my savings account with the credit card?
-cc_savings_account,Do I need to have a Capitec Bank account to be eligible for a Capitec Bank credit card?
-cc_access_app,Is the credit card compatible with the remote app?
-cc_account_structure,Is my card linked to global one?
-cc_account_structure_facility,What happens to the credit facility when the credit card is launched?
-cc_application,How long will I wait before I get my credit card?
-cc_application_account_required,"If I apply, what do I need provide in order to apply?"
-cc_application_affordability,How can I increase my affordability?
-cc_application_credit_facility,Why can I not have a credit facility and a credit card?
-cc_application_not_qualified,What can I do if I do not qualify for a credit card?
-cc_application_required,What do I need to bring when I apply for a credit card?
-cc_benefit_card_management,How will I be able to manage my spending?
-cc_benefits_all,Are there any benefits?
-cc_different_all,How is the Capitec credit card different from other credit cards?
-cc_benefits_budget,What is a budget facility?
-cc_benefits_budget_acceptance,Why can my card not do a budget transaction at a specific merchant?
-cc_benefits_budget_repayment,How and when do I repay my budget transactions?
-cc_benefits_budget_transnfer,Can I change a straight purchase to a budget?
-cc_benefits_budget_what,What is the difference between straight and budget?
-cc_pay_budget,Can I pay extra money into my budget?
-cc_benefits_insurance_credit_life,What is credit insurance?
-cc_benefits_lost_card,What is lost card protection?
-cc_benefits_safety,How safe is it to use a credit card?
-cc_benefits_supplementary_cards,Can I request an additional credit card for my spouse?
-cc_benefits_travel,What is travel insurance?
-cc_benefits_why,What is a credit card?
-cc_benifits_insurance_general,Does the credit card come with insurance?
-cc_budget_number,How many budget facilities does it have?
-cc_card_attributes_color,Will there be different coloured cards?
-Cc_card_contactless,Is my credit card contactless?
-Cc_card_expiry,How long until I have to reapply?
-Cc_card_type,Can I get a Visa credit card?
-cc_charge_back_events,When may I get chargeback protection?
-cc_credit_limit,How much are you allowed to use on your credit card facility?
-cc_credit_limit_auto_increase,Can you increase my credit card limit automatically every year?
-cc_credit_limit_exceed_action,What happens if I exceed my limit?
-cc_credit_limit_exceed_prevent,How do I ensure I do not overextend myself with my credit card?
-cc_credit_limit_increase,How often can my credit card limit be increased?
-cc_credit_revolving_what_is,How different is a credit card from a term loan?
-cc_feature_term,Can I choose the term of the card?
-cc_features_daily_limits,What is the maximum amount of money I can draw from my credit card?
-cc_features_daily_limits_international,What is the maximum international transactions I can do?
-cc_features_daily_limits_temporary,What are the temporary daily limits?
-cc_features_garage_petrol,Will I be able to get a petrol card with my credit card?
-cc_features_payment_arrangement,Will I be able to make arrangements?
-cc_fees_all,What fees will I pay to use my credit card?
-cc_fees_card_replacement_how_much,How much do I pay for the actual card?
-cc_fees_deposit,What are the cash deposit fees on a credit card?
-cc_fees_initiation_what,What do I pay for the set- up of the account?
-cc_fees_other_bank,"How much do other
-banks charge for credit card facility?"
-cc_fees_service_how_much,How much is the service fee?
-cc_fees_transaction_all,What transaction fees are payable?
-Cc_fraud,Where do I report fraud on my credit card?
-cc_interest_how_calculated,How is my interest calculated?
-Cc_interest_rate_positive_ balance,Will I earn interest on my positive balance in my credit card account?
-cc_interest_rate,What's the interest on a credit card?
-cc_interest_rate_change,"Will my interest rate
-increase if my balance increases?"
-cc_interest_rate_display,What is my credit card interest rate?
-cc_interest_transaction_types,Do all transactions attract interest?
-cc_interest_what_is,What is interest?
-cc_lost_card_action,What must I do if I lost my card or it was stolen?
-cc_max_credit,What is the max credit I can apply for?
-cc_notification_sms,Why would I only receive a SMS for R100 only and not lower?
-cc_off_topic_capitec_general,How many people are currently in possession of the credit card?
-cc_off_topic_totally,What is the weather like?
-cc_payment_date,When is my payment date?
-cc_payment_date_forced_DO,Why do I have to repay via debit order?
-cc_payment_how_much,How will I know how much I need to pay each month and what my full outstanding amount will be?
-cc_payment_method,How can I pay my credit card account?
-cc_payment_minimum,What is the minimum monthly payment?
-cc_payment_minimum_DO,Is there a minimum payment threshold?
-cc_payment_options,Can I choose how much I can pay each month?
-cc_phisycal_cvc,What is the CVC?
-cc_phisycal_mag_stripe,Why does my card still have a magnetic stripe?
-cc_phisycal_look_and_feel,Why is the card not embossed?
-cc_qualification_administration,Will administration clients be helped?
-cc_qualification_foreign_national,Do foreign nationals qualify for the credit card?
-cc_qualification_general,Who can qualify for a credit card?
-cc_qualification_salary,I receive a government pension. Can I apply for a credit card?
-cc_reversals,Is there a waiting period for reversals?
-Cc_rewards,Can I get any frequent flyer miles?
-cc_safety_chip_what,What is the chip?
-cc_safety_fraud_prevent,How do I protect myself from fraud while using the card?
-cc_safety_pin_change,When must I change my PIN?
-cc_safety_pin_reset,What must I do if I forget my PIN?
-cc_statement_available_balance,What does available to spend on statement mean?
-cc_statement_copy,Where can I get another copy of my Credit card statement?
-cc_statement_receive_action,What must I do when I get my credit card statement?
-cc_statement_receive_how,Where can I get my credit card statement?
-cc_transact_ATM,What account type do I select to do transfers and deposits on a Capitec Bank ATM with a Capitec Bank credit card?
-Cc_transact_min_amount,What is the minimum amount I can purchase?
-cc_transaction_air_time_elec,Is it possible to buy airtime with my credit card?
-cc_transaction_international,Why does the transaction amounts differ when using the credit card internationally?
-cc_transaction_transfer,Can I transfer the credit to my savings?
-cc_vs_credit_facility,What is the difference between the credit card and credit facility?
+all_training_data_used,"Does the Natural Language Classifier train using all of the data, or does it partition it in some way?"
+api_documentation,Where can I find documentation on the Natural Language Classifier API?
+billing_and_usage,How many instances of the Natural Language Classifier can I create and what does it cost?
+bluemix_hosted,What OS does the Natural Language Classifier use and how does it relate to IBM Bluemix?
+bluemix_multi_tenant,Is this a multi-tenant service?
+choose_or_change_algorithm,Can I choose from different algorithms or request changes to the existing ones?
+classifier_competitors,What are the competitors to the Natural Language Classifier and how is it differentiated?
+classifier_documentation,Where can I find documentation on the Natural Language Classifier service?
+classifier_not_rule_based,Does the Natural Language Classifier support a combination of NL and rule-based matching techniques currently?
+confidence_threshold,Does the Natural Language Classifier service return answer(s) above a certain confidence threshold?
+contact_support,Who do I contact for issues with Natural Language Classifier?
+deployed_in_bluemix,How do I deploy the Natural Language Classifier service?
+example_use_cases,What is a good use case for the Natural Language Classifier service?
+extend_classifier,Is there a way for me to extend the capabilities of the Natural Language Classifier?
+how_accurate,How accurate is the Natural Language Classifier and have there been any experiments or test results to share to prove it?
+how_classifier_works,How does the Natural Language Classifier work?
+how_to_measure_quality,How do you measure the quality of the Natural Language Classifier?
+how_to_register,How do I register for this Natural Language Classifier service?
+how_to_retrain,How can I retrain and update the model for an existing Natural Language Classifier?
+how_to_train,How do I train a Natural Language Classifier?
+how_to_use,How do I use the Natural Language Classifier?
+improving_classifier,Does the Natural Language Classifier improve with use?
+improving_performance,"If the Natural Language Classifier isn't giving the answers I expect, what do I do?"
+integrate_other_services,What other services should I use and how do I integrate them?
+known_problems,What are the known problems with the Natural Language Classifier?
+languages_supported,Does the Natural Language Classifier work on languages other than english?
+matching_words_in_question_and_class,How many words can not match and still have a question match an existing group?
+misspelling_bad_grammar,"How does the Natural Language Classifier handle misspelled words, bad grammar, improper case, and extra spaces?"
+model_used_in_classification,What models does the Natural Language Classifier use and can I use my own?
+more_samples_produce_better_models,Is two Natural Language Classifiers with smaller training sets better than having one with a bigger training set?
+nlp_features_used,What NLP features does the Natural Language Classifier use?
+optimum_number_training_classes,How many examples do I need to train the Natural Language Classifier service?
+overfitting_regularization,how is  the generalization of the Natural Language Classifier calculated?
+related_or_similar_classes,Can the Natural Language Classifier identify similar or related classes?
+response_to_classify,What is the output of a request to the Natural Language Classifier?
+same_answer_every_time,Does the Natural Language Classifier give the same answer every time?
+short_text_classifier,Why does the Natural Language Classifier return intents instead of answers?
+structured_data,Does the Natural Language Classifier work on structured data?
+time_to_classify_question,How long does it take for Natural Language Classifier to answer the question?
+time_to_train,How long does it take to train a Natural Language Classifier?
+training_class_limit,What is the limit on the number of classes I can use to train the Natural Language Classifier?
+types_of_data_classified,What types of questions can be classified by the Natural Language Classifier?
+what_classifier_does,What is the Natural Language Classifier service?
+what_does_nl_stand_for,What does NL stand for?
+why_use_classifier,Why do I want to use the Natural Language Classifier?
