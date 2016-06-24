@@ -37,7 +37,7 @@
   "stillNEeedHelpButton"            : "Visit Our Help Forum",
   "subTitle"                        : "Let's get started.",
   "thanksForFeedbackMessage"        : "<strong>Thanks for your feedback!</strong> You're helping Watson learn.",
-  "titleHTML"                       : "<strong>Questions</strong> on the Natural Language Classifier <img id='multichoicetransparent' src='images/logo_transparent.png' alt='multichoice transparent' class='center-block header-logo'>",
+  "titleHTML"                       : "<strong>Questions</strong> on the Natural Language Classifier",
   "typicalQuestionTextHTML"         : "What would you like to know about the <strong> Classifier Service </strong>?",
   "typicalShortQuestionTextHTML"    : "What would you like to know about the <strong> Classifier </strong>?",
   "typicalQuestionText"             : "Ask about the Natural Language Classifier",

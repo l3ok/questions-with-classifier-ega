@@ -1,6 +1,8 @@
 /* Copyright IBM Corp. 2015 Licensed under the Apache License, Version 2.0 */
 
 <custom-menu>
+	<div> <img id="multichoicetransparent" src="images/logo_transparent.png" alt="multichoice transparent" class="menuIconContainer">
+</div>
 	<div id="menuIconContainerDesktop" class="menuIconContainer">
 		<span class="menu-label">{menuLabel}</span>
 		<span class="menuIconImg" onclick={toggleMenu}></span>
