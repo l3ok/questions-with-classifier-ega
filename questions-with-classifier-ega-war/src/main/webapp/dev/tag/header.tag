@@ -14,4 +14,5 @@
 <script>
 	this["app-heading"].innerHTML = polyglot.t("titleHTML");
 </script>
+<img id="multichoicetransparent" src="images/logo_transparent.png" alt="multichoice transparent" class="center-block header-logo">
 </header>
