@@ -4,6 +4,7 @@
 	<div class="loader" id="loaderCall">
 		<object type="image/svg+xml" data="images/loading-indicator-thinking.svg" id="loaderImage" class="loader--svg"> </object>
 		<object type="image/svg+xml" data="images/loading-indicator.svg" id="staticImage" class="loader--svg"> </object>
+		<img id="multichoice" src="images/mc-logo1.png" alt="multichoice" class="loader--svg">
 		<div class="loader--fallback" if={showing} id="fallback"></div>
 	</div>
 	<script>
