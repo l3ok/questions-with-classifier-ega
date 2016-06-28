@@ -1,3 +1,4 @@
+show_max,"What is ShowMax?"
 all_training_data_used,"Does the Natural Language Classifier train using all of the data, or does it partition it in some way?"
 api_documentation,Where can I find documentation on the Natural Language Classifier API?
 billing_and_usage,How many instances of the Natural Language Classifier can I create and what does it cost?
