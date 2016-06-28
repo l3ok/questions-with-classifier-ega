@@ -1,4 +1,4 @@
-"What is ShowMax?",show_max 
+What is ShowMax?,show_max
 "Does the Natural Language Classifier train using all of the data, or does it partition it in some way?",all_training_data_used
 What kind of preprocessing does the classifier perform on its input?,all_training_data_used
 "Does the classifier train using all of the data, or does it partition it in some way?",all_training_data_used
