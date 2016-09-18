@@ -1,27 +1,27 @@
 [
   {
-  	questionText: "What is the Natural Language Classifier service?",
-  	className: "what_classifier_does"
+  	questionText: "When do I activate Xtraview?",
+  	className: "xtraView_activation"
   },
   {
-  	questionText: "Why do I want to use the Natural Language Classifier?",
-  	className: "why_use_classifier"
+  	questionText: "How do I process a refund?",
+  	className: "refund"
   },
   {
-  	questionText: "What languages are supported?",
-  	className: "languages_supported"
+  	questionText: "How do I break the Xtraview link?",
+  	className: "break_xtraview"
   },
   {
-  	questionText: "How many examples do I need to train the Natural Language Classifier service?",
-  	className: "optimum_number_training_classes"
+  	questionText: "How do reconnect or disconnect my Holiday Home device?",
+  	className: "holiday_device"
   },
   {
-  	questionText: "What kind of data can I use the Natural Language Classifier on?",
-  	className: "how_classifier_works"
+  	questionText: "How do move funds from one financial account to another on self service?",
+  	className: "fund_transfer"
   },
   {
-  	questionText: "What is ShowMax?",
-  	className: "show_max"	
+  	questionText: "Customers are unable to rent on their own by sending rental code via sms?",
+  	className: "unable_to_rent"	
   }
 ]
 
