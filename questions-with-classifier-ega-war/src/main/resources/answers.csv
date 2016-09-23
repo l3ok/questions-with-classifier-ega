@@ -18,4 +18,8 @@ move_packages,How do I move packages
 add_device,How do I add device
 box_office_not_in_region,Not available in my region
 codes,Installer short code
+xtra_comms_1100,No communication or waiting for communication on 11series
+xtra_comms_hdpvr,No communication or waiting for communication on hdpvr
+xtra_comms_explora,No communication or waiting for communication on explora
+xtraview_no_comms,How to troubleshoot a no communication or waiting for communication error
 off_topic,Who is watson?

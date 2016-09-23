@@ -134,3 +134,19 @@ can I have your number,off_topic
 who is your father,off_topic
 can we go on a date,off_topic
 what is the wheather like,off_topic
+No communication or waiting for communication on 11series,xtra_comms_1100
+waiting for communication on 11series,xtra_comms_1100
+No communication on 11series,xtra_comms_1100
+e143 on 11series,xtra_comms_1100
+No communication or waiting for communication on hdpvr,xtra_comms_hdpvr
+waiting for communication on hdpvr,xtra_comms_hdpvr
+No communication on hdpvr,xtra_comms_hdpvr
+e143 on hdpvr,xtra_comms_hdpvr
+No communication or waiting for communication on explora,xtra_comms_explora
+waiting for communication on explora,xtra_comms_explora
+No communication on explora,xtra_comms_explora
+e143 on explora,xtra_comms_explora
+How to troubleshoot a no communication or waiting for communication error,xtraview_no_comms
+No communication or waiting for communication on xtraview,xtraview_no_comms
+e143 error,xtraview_no_comms
+what do I do with a e143 error,xtraview_no_comms
