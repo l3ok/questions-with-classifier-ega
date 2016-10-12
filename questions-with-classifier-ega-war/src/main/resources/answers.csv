@@ -1,25 +1,38 @@
-xtraView_activation,When do I activate Xtraview
-switching,When do I do switching
-refund,How do I process a refund
-break_xtraview,How do I break the Xtraview link
-upgrade,How do I schedule a upgrade
+xtraView_activation,How do I activate Xtraview
+switching,How do I do holiday switching?
+refund,How do I process a refund?
+break_xtraview,How do I break the Xtraview link?
+upgrade,How to upgrade services?
 downgrade,How do I schedule a downgrade
 pending_reconnect,What does disconnect pending reconnect mean
-holiday_device,How do reconnect or disconnect my Holiday Home device
-view_statements,How do I retrieve my statements? 
-payments,Can I pay for my DStv subscription online? 
-unallocated_payments,What is unallocated payments?
-inter_customer_transfer,How do I transfer from one customer to another
+holiday_device,How to reconnect or disconnect holiday home device?
+view_statements,How do I retrieve my statements?
+payments,Can I pay for my DStv subscription online?
+unallocated_payments,How to allocate payments?
+inter_customer_transfer,How to transfer payment from one account to another?
 incorrect_titles,Incorrect titles
-fund_transfer,How do move funds from one financial account to another on self service? 
-unable_to_rent,Customers are unable to rent on their own by sending rental code via sms 
+fund_transfer,How do I move funds from one account to another on self-services?
+unable_to_rent,Customers are unable to rent on their own by sending rental code via sms
 box_office,Movie rented but did not receive title
 move_packages,How do I move packages
 add_device,How do I add device
 box_office_not_in_region,Not available in my region
-codes,Installer short code
+codes,Short Code
 xtra_comms_1100,No communication or waiting for communication on 11series
 xtra_comms_hdpvr,No communication or waiting for communication on hdpvr
 xtra_comms_explora,No communication or waiting for communication on explora
 xtraview_no_comms,How to troubleshoot a no communication or waiting for communication error
-off_topic,Who is watson?
+off_topic,Who is Watson
+mark,Who is the Boss
+simon,Who is the COO
+natasha,Who is the Multichoice GM
+showmax_include_dstv_shows,Does Showmax include shows that are already on DSTV?
+showmax_software,How do I know if my DSTV Explora has the latest software, the software including ShowMaX
+error_smart_card_linked,"Why do I get an error message, saying my smart card is already linked to another profile?"
+package_custom_channels,Why can't I rather choose which channels are on my package and pay for those?
+catchup_before_explora,Why is the online version of a show sometimes available before it is on my Explora?
+why_repeats,Why are there always repeats on Dstv?
+change_of_ownereship,Can I transfer in ownership of the end of support decoder?
+pensioners_discount,Why don't you offer discounts for pensioners?
+how_register_selfservice,How do I register on self-service?
+price_lock,Do all Price Lock offers come with installation?

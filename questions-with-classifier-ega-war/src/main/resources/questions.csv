@@ -34,19 +34,19 @@ How do reconnect or disconnect my Holiday Home device,holiday_device
 Reconnect holiday viewing on self service,holiday_device
 Reconnect on self service,holiday_device
 Reconnect online,holiday_device
-How do I retrieve my statements? ,view_statements
-Can I see my statements online? ,view_statements
+How do I retrieve my statements ,view_statements
+Can I see my statements online ,view_statements
 Retrieve statements ,view_statements
 Self service statements,view_statements
 Statements online,view_statements
-Can I pay for my DStv subscription online? ,payments
+Can I pay for my DStv subscription online ,payments
 How do I process a payment online,payments
 Pay online,payments
 Process payment online,payments
 Online payments,payments
 Payments on self service,payments
 Self service payments,payments
-What is unallocated payments?,unallocated_payments
+how to allocate unallocated payments,unallocated_payments
 How to escalate for unallocated payments to be allocated,unallocated_payments
 How to find an unallocated payment,unallocated_payments
 How to allocate payments,unallocated_payments
@@ -70,7 +70,7 @@ No titles on Catch Up,incorrect_titles
 Some titles loading,incorrect_titles
 Compact titles loading on Premium,incorrect_titles
 Incorrect titles,incorrect_titles
-How do move funds from one financial account to another on self service? ,fund_transfer
+How do move funds from one financial account to another on self service ,fund_transfer
 money on residential and want to move it to holiday home,fund_transfer
 money on residential and want to move it to box office,fund_transfer
 money on residential and want to move it to DPP,fund_transfer
@@ -150,3 +150,89 @@ How to troubleshoot a no communication or waiting for communication error,xtravi
 No communication or waiting for communication on xtraview,xtraview_no_comms
 e143 error,xtraview_no_comms
 what do I do with a e143 error,xtraview_no_comms
+Who is Mark,mark
+Mark,mark
+Who is Multichoice Ceo,mark
+who is the boss,mark
+Who is Simon,simon
+Simon,simon
+Who is multichoice COO,simon
+Who is Simon Camerer,simon
+Who is Natasha Abed,natasha
+Natasha,natasha
+Natasha Abed,natasha
+Who is the GM of Multichoice,natasha
+Can  I get shows that play on DSTV on ShowMax,showmax_include_dstv_shows
+Can I get shows on ShowMax that are already on DSTV,showmax_include_dstv_shows
+Does show max includes channels that are already on DSTV,showmax_include_dstv_shows
+Which Dstv shows are on showmax,showmax_include_dstv_shows
+Is showmax content different from dstv content,showmax_include_dstv_shows
+Is there a difference between showmax and dstv shows,showmax_include_dstv_shows
+Will I be able to watch the shows that I have on my package on Showmax,showmax_include_dstv_shows
+How do I know if my Explora has the compatible software for ShowMax,showmax_software
+How to check for the showmax latest software on my dstv Explora,showmax_software
+How do I see when the latest showmax software is loaded on my explora,showmax_software
+How do I check if my ShowMax explora software is up to date,showmax_software
+Is my software version the latest on my Dstv explora to view Showmax,showmax_software
+How do I access my Showmax software on my Explora,showmax_software
+Will Showmax work with an old Explora software,showmax_software
+"How do I know if my DSTV Explora has the latest software, the software including ShowMaX",showmax_software
+When I enter my smart card number I get an error saying my smart card is already linked to another profile,error_smart_card_linked
+I am registering my smart card on self-service it says my card is already registered to someone account,error_smart_card_linked
+"I never registered on self-services before, why does it not recognise my account",error_smart_card_linked
+"I just tried registering online but my smart card  is linked to another profile, please assist",error_smart_card_linked
+How to reset profile,error_smart_card_linked
+What does the error message smartcard is already linked to another profile mean,error_smart_card_linked
+Why is my smart card linked in another profile while it's my 1st time registering,error_smart_card_linked
+"Why do I get an error message, saying my smart card is already linked to another profile?",error_smart_card_linked
+Can I select channels that I want,package_custom_channels
+Why can’t I rather choose which channels are on my package and pay for those?,package_custom_channels
+Why am I not able to choose channels that I want to pay for,package_custom_channels
+Can I only pay for the channels I watch and you switch off the one's I don't want,package_custom_channels
+How much is do I pay for each channels if I choose the one's I like,package_custom_channels
+Can I select my own channels and not a package,package_custom_channels
+Can we change the channels in the package and add my own,package_custom_channels
+Is there a way that I can choose what I want to watch and pay for that,package_custom_channels
+Why is catch up available online before it is on my Explora,catchup_before_explora
+Why are catch up titles on my Explora taking longer to update than online,catchup_before_explora
+Why does it take time to load shows on my explora than online,catchup_before_explora
+Why is the content online not the same as the one on my explora,catchup_before_explora
+Why don't I get the shows appearing online the same time as on my xplora,catchup_before_explora
+Why doesn't my explora update the same time as online catch up,catchup_before_explora
+Why is the online version of a show sometimes available before it is on my explora,catchup_before_explora
+Why do we so much repeats on DSTV,why_repeats
+Why do you play the same thing for long on DSTV,why_repeats
+Why repeat the same show on different channels,why_repeats
+Why are we paying so much for repeats,why_repeats
+Why can't I get new programmes and shows every week,why_repeats
+Why don't Dstv update the content every now and then there’s always repeats of the same shows,why_repeats
+Do you have something different to Dstv as the shows are constantly being repeated,why_repeats
+Why are there always repeats on Dstv,why_repeats
+Am I allowed to do change of ownership with my SDPVR,change_of_ownereship
+Can I do change of ownership for the Mnet decoder,change_of_ownereship
+Can I change ownership for the legacy decoders,change_of_ownereship
+Is it possible to do change of ownership on my older dsd,change_of_ownereship
+If my decoder no longer has life support can I change its ownership,change_of_ownereship
+Can I still change a decoder ownership and use it even though Dstv does not support life to it anymore,change_of_ownereship
+"The decoder is at the end of its life cycle, can I change it to someone else",change_of_ownereship
+Can I transfer in ownership of the end of support decoder,change_of_ownereship
+Why are there no pensioners discount,pensioners_discount
+Do you offer discount for pensioners,pensioners_discount
+Do you have discounts for the elderly people,pensioners_discount
+I've been paying my account very well for over 20 years and now I'm a pensioner why can't I get a discount for my services,pensioners_discount
+I want to keep my premium package but I can't afford it anymore because I'm a pensioner why can't I get a discount,pensioners_discount
+Will there be a pensioner's discount,pensioners_discount
+I have more than 1 account can I have a discount as a pensioner,pensioners_discount
+Why don't you offer discounts for pensioners?,pensioners_discount
+Where do I go to register on self-service,how_register_selfservice
+How do I create a connect ID,how_register_selfservice
+How do I log in on self-service,how_register_selfservice
+How do I create a DSTV online profile,how_register_selfservice
+How do I create an online account,how_register_selfservice
+How do I register on self-service,how_register_selfservice
+Does dpp offers free installation on all subscription,price_lock
+Is installation included on all of your price lock decoders,price_lock
+Can I apply for price lock without installation,price_lock
+If I get the price lock decoder do they all come with installation,price_lock
+Do you pay for installation on price lock offers,price_lock
+Do all Price Lock offers come with installation,price_lock
