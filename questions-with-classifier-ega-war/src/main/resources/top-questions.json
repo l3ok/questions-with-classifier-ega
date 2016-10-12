@@ -1,6 +1,6 @@
 [
   {
-  	questionText: "When do I activate Xtraview?",
+  	questionText: "How do I activate Xtraview?",
   	className: "xtraView_activation"
   },
   {
@@ -12,11 +12,11 @@
   	className: "break_xtraview"
   },
   {
-  	questionText: "How do reconnect or disconnect my Holiday Home device?",
+  	questionText: "How to reconnect or disconnect holiday home device?",
   	className: "holiday_device"
   },
   {
-  	questionText: "How do move funds from one financial account to another on self service?",
+  	questionText: "How do I move funds from one account to another on self-services?",
   	className: "fund_transfer"
   },
   {
